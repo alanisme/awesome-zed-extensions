@@ -1,0 +1,6431 @@
+{
+  "last_updated": "2026-03-09T04:32:28.401726Z",
+  "extensions": {
+    "0x96f": [
+      {
+        "stars": 34,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "0xtz": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "1984-theme": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "abysswalker-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "actionscript": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "activitywatch": [
+      {
+        "stars": 21,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ada": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "adaltas-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "adaptify": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "adech": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "adwaita": [
+      {
+        "stars": 10,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "adwaita-pastel": [
+      {
+        "stars": 17,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "aesthetic-theme": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "agda": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "agnix": [
+      {
+        "stars": 81,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "aiken": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "air": [
+      {
+        "stars": 391,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "aira": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "aizen-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "alabaster": [
+      {
+        "stars": 35,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "alabaster-dark": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "alpental-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "alpinejs-snippets": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "amber": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "amber-monochrome-monitor-crt-phosphor": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "andromeda": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "angular": [
+      {
+        "stars": 133,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "angular-snippets": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ansible": [
+      {
+        "stars": 36,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "anthracite-theme": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "anysphere-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "apache-avro": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "apathy-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "apisartisan": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "aptos-move": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "aquaflow-theme": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "aquarium-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "arc-dark-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "arch-mcp": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "arctic-depth": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ariake": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "arkts": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "arturo": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "asciidoc": [
+      {
+        "stars": 16,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ashen": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ask-starknet-mcp": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "asn1": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ass": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "assembly": [
+      {
+        "stars": 28,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ast-grep": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "asteroid": [
+      {
+        "stars": 14,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "astro": [
+      {
+        "stars": 46,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "atom-one-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "atomize": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "atomizer-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "auggie": [
+      {
+        "stars": 19,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "aura-theme": [
+      {
+        "stars": 3740,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "aurora-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "authzed": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "auto-file-header": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "autocorrect": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "autohand-acp": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "autohotkey": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "autumnal-marscape": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "awk": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "axolosin": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "aylin-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "aystra": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ayu-darker": [
+      {
+        "stars": 10,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ayu-themes-glass": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "azure-context-server": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "azutiku-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bamboo-theme": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "baml": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "barbenheimer": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "base16": [
+      {
+        "stars": 34,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "basher": [
+      {
+        "stars": 60,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "batman": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "beancount": [
+      {
+        "stars": 18,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "beanseeds-pro": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bearded": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bearded-icon-theme": [
+      {
+        "stars": 13,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bearded-icons": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bearded-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bebop-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bend": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bicep": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "biome": [
+      {
+        "stars": 433,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bison": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bitbake": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "blackfox": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "blackrain-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "blackula": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "blade": [
+      {
+        "stars": 37,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "blade-runner-2049": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "blanche": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "blank-theme": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "blankeos-zen": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "blinds-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "blk-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bloc": [
+      {
+        "stars": 12405,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "blueprint": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bluespec-systemverilog": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bluloco-theme": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bookmark": [
+      {
+        "stars": 9,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bqn": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "brainfuck": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "browser-tools-context-server": [
+      {
+        "stars": 58,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bsl": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bubble-lsp": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bubblegum": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "bun-docs-mcp": [
+      {
+        "stars": 11,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "c3": [
+      {
+        "stars": 17,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "caddyfile": [
+      {
+        "stars": 10,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cadence": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cairo": [
+      {
+        "stars": 9,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "call-trans-opt-received": [
+      {
+        "stars": 29,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "capnp": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "carbonember": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "carbonfox": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cargo-appraiser": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cargo-tom": [
+      {
+        "stars": 32,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "catbox": [
+      {
+        "stars": 12,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "catppuccin": [
+      {
+        "stars": 737,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "catppuccin-blur": [
+      {
+        "stars": 290,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "catppuccin-blur-plus": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "catppuccin-icons": [
+      {
+        "stars": 207,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cds-lsp": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cedar": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cem": [
+      {
+        "stars": 36,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cfengine": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cfml": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "chai-theme": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "chanterelle": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "chaos-theory-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "charcoal-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "charmed-icons": [
+      {
+        "stars": 36,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "chatgpt": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "chawyehsu-vscode-icons": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cherri": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "chocolate": [
+      {
+        "stars": 9,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "chrome-devtools-mcp": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cinnamonwine-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "circom": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cisco-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "city-lights": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "clarity": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "claude-code-inspired-dark": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "clean-vscode-icons": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "clice": [
+      {
+        "stars": 1169,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "clojure": [
+      {
+        "stars": 15,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cloudformation-language-server": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cobalt2": [
+      {
+        "stars": 15,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cobol": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "code-stats": [
+      {
+        "stars": 11,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "codebabel-ztheme-dark": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "codebook": [
+      {
+        "stars": 24,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "codebuddy": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "codely-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "codeowners": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "codesandbox-theme": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "codestackr": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "coffeescript": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "coi": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "color-highlight": [
+      {
+        "stars": 41,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "colored-zed-icons-theme": [
+      {
+        "stars": 23,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "colorizer": [
+      {
+        "stars": 29,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "comment": [
+      {
+        "stars": 115,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "comphy-crisp-themes": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "compline": [
+      {
+        "stars": 94,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "confluence-context-server": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "conl": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cooklang": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "corust-agent": [
+      {
+        "stars": 19,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cosmos": [
+      {
+        "stars": 12,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cpp2": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cql": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "crates-lsp": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "crimson-theme": [
+      {
+        "stars": 10,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "crystal": [
+      {
+        "stars": 39,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "csharp": [
+      {
+        "stars": 107,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "csharp-snippets": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "csound": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cspell": [
+      {
+        "stars": 32,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "css-modules-kit": [
+      {
+        "stars": 170,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "css-variables": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "csv": [
+      {
+        "stars": 17,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ctags": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cucumber": [
+      {
+        "stars": 13,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cue": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "curry": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cursor": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cursor-dark-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cyan-light-theme": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cyberpunk-2077": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cyberpunk-scarlet": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cylc": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cypher": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "cython": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "d": [
+      {
+        "stars": 15,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "d2": [
+      {
+        "stars": 21,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dafny": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "darcula-dark": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "darcula-dark-okkano": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dark-castle-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dark-discord": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dark-glass-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dark-material-dracula": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dark-oled": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dark-pop-ui": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "darker-horizon": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "darkmatter-theme": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dart": [
+      {
+        "stars": 72,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "datadog-mcp": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "day-shift": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dbml": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "decorative-stitch": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "deep-ocean-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "defold": [
+      {
+        "stars": 10,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "demotape": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "deno": [
+      {
+        "stars": 25,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dependi": [
+      {
+        "stars": 15,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "deps-language-server": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "deputy": [
+      {
+        "stars": 40,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "design-tokens": [
+      {
+        "stars": 87,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "desktop": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dev-magic": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "devicetree": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "discord-presence": [
+      {
+        "stars": 378,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "django": [
+      {
+        "stars": 28,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "django-snippets": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "docker-compose": [
+      {
+        "stars": 16,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dockerfile": [
+      {
+        "stars": 63,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dogi": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dogxi-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dprint": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dracula": [
+      {
+        "stars": 63,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dracula-flat": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dram": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dream": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "duckyscript": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dune-theme": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "duper": [
+      {
+        "stars": 35,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dusty-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "dwp": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "earthfile": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "eclat": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "edge": [
+      {
+        "stars": 9,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "edi": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "editorconfig": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "eiffel-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ejs": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "elderberry": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "eldritch-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "electron-vue-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "elisp": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "elixir": [
+      {
+        "stars": 49,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "elixir-snippets": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "elle": [
+      {
+        "stars": 106,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ellsp": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "elm": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ember": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ember-theme": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "emerald-night": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "emmet": [
+      {
+        "stars": 24,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "emmylua": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "emoji-completions": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "env": [
+      {
+        "stars": 42,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "erb-snippets": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "erlang": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "esmerald-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "everforest": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "everforest-blurred": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "everforest-theme": [
+      {
+        "stars": 37,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "evil-rabbit-theme": [
+      {
+        "stars": 21,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "evolved-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "exograph": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "exquisite": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "eyecandy": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ezio-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "factory-droid": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "fantasticons-icons-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "fastapi-snippets": [
+      {
+        "stars": 16,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "fedaykin-themes": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ferret": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "fiber-snippets": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "fiberplane-studio": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "findrakecil-alabaster": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "firebase-security-rules": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "firrtl-source-locator": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "fish": [
+      {
+        "stars": 18,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "flask-snippets": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "flat-theme": [
+      {
+        "stars": 13,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "flat-themes": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "flatbuffers": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "fleet-themes": [
+      {
+        "stars": 70,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "fleeting-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "fleury": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "flexoki-themes": [
+      {
+        "stars": 3100,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "flow": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "flow-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "flutter-snippets": [
+      {
+        "stars": 9,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "focus-theme": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "forest-cottage-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "forest-night": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "formosa-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "fortitude": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "fortran": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "fountain": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "fozzy": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "freemarker": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "freezed-dart-flutter-snippets": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "frosted-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "fsharp": [
+      {
+        "stars": 42,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "furina-vibe-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gafelson": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gatito-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gato-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gcode": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gdscript": [
+      {
+        "stars": 139,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gdscript-snippets": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gem": [
+      {
+        "stars": 44,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gentle-dark": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ghost-in-the-shell-theme": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ghostty": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "git-firefly": [
+      {
+        "stars": 99,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "github-actions": [
+      {
+        "stars": 13,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "github-activity-summarizer": [
+      {
+        "stars": 14,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "github-classic": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "github-copilot-theme": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "github-dark-default": [
+      {
+        "stars": 20,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "github-monochrome-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "github-plus-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "github-theme": [
+      {
+        "stars": 85,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gitignore-templates": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gitlab-ci-ls": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "glazier": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gleam": [
+      {
+        "stars": 56,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gleam-theme": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "glsl": [
+      {
+        "stars": 76654,
+        "scanned_at": "2026-03-09T03:34:40.742352Z"
+      }
+    ],
+    "go-snippets": [
+      {
+        "stars": 16,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "godot-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "golangci-lint": [
+      {
+        "stars": 34,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gosum": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gotmpl": [
+      {
+        "stars": 22,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "graphene": [
+      {
+        "stars": 11,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "graphql": [
+      {
+        "stars": 25,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "graphviz": [
+      {
+        "stars": 9,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "green-monochrome-monitor-crt-phosphor": [
+      {
+        "stars": 13,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gren": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "grey-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "greycat": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "grimaces-birthday": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "grit": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "groovy": [
+      {
+        "stars": 14,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "groq": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gruber-darker": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gruber-flavors": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gruvbox-baby": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gruvbox-crisp-themes": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gruvbox-ish": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gruvbox-material": [
+      {
+        "stars": 25,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gruvbox-material-mix": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gruvbox-material-neovim": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "gruvchad": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "hackatime": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "hacker-night-vision": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "hacker-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "haku-dark-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "halcyon": [
+      {
+        "stars": 18,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "hami-melon-theme": [
+      {
+        "stars": 9,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "haml": [
+      {
+        "stars": 16,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "hare": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "harper": [
+      {
+        "stars": 78,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "haskell": [
+      {
+        "stars": 15,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "haxe": [
+      {
+        "stars": 18,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "hbuilderx-push-light": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "helm": [
+      {
+        "stars": 24,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "herzha-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "hex-light-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "hexpeek": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "hilleer-v-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "hipster-green-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "hivacruz-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "hledger": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "hlsl": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "hocon": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "horizon": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "horizon-extended": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "hot-dog-stand": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "hql": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "html": [
+      {
+        "stars": 76654,
+        "scanned_at": "2026-03-09T03:34:40.742352Z"
+      }
+    ],
+    "html-jinja": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "html-snippets": [
+      {
+        "stars": 9,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "http": [
+      {
+        "stars": 28,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "huff": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "hurl": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "hyprlang": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ibm-5151": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ical": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "iceberg": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "iceicebergy": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "icons-modern-material": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "idris2": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "immigrant": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "indigo": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "inform6": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ini": [
+      {
+        "stars": 10,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ink": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "intellij-light-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "intellij-newui-theme": [
+      {
+        "stars": 42,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "intl-lens": [
+      {
+        "stars": 19,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ion": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ir-black": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "isle": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "iterm2-default-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "iwe": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "jai": [
+      {
+        "stars": 12,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "janet": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "jarl": [
+      {
+        "stars": 99,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "java": [
+      {
+        "stars": 169,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "java-eclipse-jdtls": [
+      {
+        "stars": 38,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "javascript-snippets": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "jdl": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "jellybeans-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "jellybeans-vim": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "jetbrains-darcula-theme-by-bronya0": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "jetbrains-icons": [
+      {
+        "stars": 12,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "jetbrains-new-ui-icons": [
+      {
+        "stars": 21,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "jetbrains-rider": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "jetbrains-themes": [
+      {
+        "stars": 19,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "jinja2": [
+      {
+        "stars": 16,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "jira-slash-command": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "jj-lsp": [
+      {
+        "stars": 17,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "jq": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "json5": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "jsonl": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "jsonnet": [
+      {
+        "stars": 14,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "jsp": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "julia": [
+      {
+        "stars": 102,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "just": [
+      {
+        "stars": 50,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "kagimcp": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "kaimandres": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "kanagawa-themes": [
+      {
+        "stars": 67,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "kanso": [
+      {
+        "stars": 69,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "kcl": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "kconfig": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "kde-breeze-dark-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "kdl": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "keepcalm": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "kiro": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "kiselevka": [
+      {
+        "stars": 9,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "kotlin": [
+      {
+        "stars": 76,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "koto": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ktrz-monokai": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "kubesong": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "kulala-http": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "kvs-cyberpunk-2077": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "latex": [
+      {
+        "stars": 115,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "latte": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "lean4": [
+      {
+        "stars": 28,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "leblackque": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ledger": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "leptos": [
+      {
+        "stars": 11,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "less": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "libsql-context-server": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "lights-out": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "lilypond": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "linkerscript": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "liquid": [
+      {
+        "stars": 23,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "liquid-snippets": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "liquidsoap": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "live-server": [
+      {
+        "stars": 85,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "live-template": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "llvm-ir": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "log": [
+      {
+        "stars": 36,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "logcat": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "logstash": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "lonely-planet": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "looped-themes": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "lotus-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "lox": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ltex": [
+      {
+        "stars": 16,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "lua": [
+      {
+        "stars": 14,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "luau": [
+      {
+        "stars": 46,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "lumina-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "lusch-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "lydia": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mach": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "macos-classic": [
+      {
+        "stars": 139,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "make": [
+      {
+        "stars": 24,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "malibu": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mangoes": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "maple-theme": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "marathon-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "marble": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mariana-theme": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "marine-dark": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "markdown-oxide": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "markdown-snippets": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "markdownlint": [
+      {
+        "stars": 15,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "marksman": [
+      {
+        "stars": 12,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "martianized": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mashu-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "material-dark": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "material-icon-theme": [
+      {
+        "stars": 74,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "material-theme": [
+      {
+        "stars": 25,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "matlab": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "matt-white-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "matte-black": [
+      {
+        "stars": 17,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "matte-black-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mau": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "maya": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "maybe-material": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcfunction": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-planetscale": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-2slides": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-atexplore": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-atproto-docs": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-axiom": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-brave-search": [
+      {
+        "stars": 22,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-buildkite": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-byterover": [
+      {
+        "stars": 24,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-code-runner": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-container-use": [
+      {
+        "stars": 24,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-context7": [
+      {
+        "stars": 98,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-digitalocean": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-exa-search": [
+      {
+        "stars": 22,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-figma": [
+      {
+        "stars": 29,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-firecrawl": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-github": [
+      {
+        "stars": 83,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-gitlab": [
+      {
+        "stars": 11,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-grafana": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-markitdown": [
+      {
+        "stars": 15,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-master-go": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-miaoduo": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-mui": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-mysql": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-newsnow": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-nextjs": [
+      {
+        "stars": 15,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-notion": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-playwright": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-powerdrill": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-puppeteer": [
+      {
+        "stars": 19,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-relytone": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-repomix": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-resend": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-sequential-thinking": [
+      {
+        "stars": 44,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-shopify-dev": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-shortcut": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-slack": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-sonarqube": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-supabase": [
+      {
+        "stars": 10,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-tavily": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-threadbridge": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-weave": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mcp-server-webflow": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mdx": [
+      {
+        "stars": 12,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "melange": [
+      {
+        "stars": 13,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mellow": [
+      {
+        "stars": 9,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mermaid": [
+      {
+        "stars": 54,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "meson": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "metal": [
+      {
+        "stars": 22,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "microscript": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "midnight-marina": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "min-theme": [
+      {
+        "stars": 46,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "min-theme-plus": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mint-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mistral-vibe": [
+      {
+        "stars": 3356,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mnemonic": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "modern-icons": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "modern-vesper": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "modest-dark": [
+      {
+        "stars": 19,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "modus-themes": [
+      {
+        "stars": 43,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "molten-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "monokai-nebula": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "monokai-night": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "monokai-og": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "monokai-pro-ce": [
+      {
+        "stars": 17,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "monokai-reversed": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "monokai-sharp": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "monokai-vibrant-amped": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "monolith": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "monosami": [
+      {
+        "stars": 38,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "monospace-icon-theme": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "monospace-theme": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "moonbit": [
+      {
+        "stars": 16,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "moonlight": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mosel": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "motoko": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "move": [
+      {
+        "stars": 10,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "move-aptos": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mpls": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "msun-dark": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "mustache": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "muted": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "naive-ui-intellisense": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nanowise": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "napalm": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "navi": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "naysayer-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nebula-pulse": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "neo-brutalism": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "neocmake": [
+      {
+        "stars": 46,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "neon-comfy-soft-themes": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "neon-cyberpunk": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "neon-pulse-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "neosolarized": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "neovim-default": [
+      {
+        "stars": 10,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nestjs-snippets": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "netlinx": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "neutral-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "new-darcula": [
+      {
+        "stars": 29,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nextjs-react-snippets": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nginx": [
+      {
+        "stars": 9,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nickel": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "night-owlz": [
+      {
+        "stars": 11,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "night-shift": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nightfox": [
+      {
+        "stars": 13,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nightfox-m": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nightingale": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nim": [
+      {
+        "stars": 43,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ninja": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "niva": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nix": [
+      {
+        "stars": 96,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nixdorf-8870": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nobin-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "noctis-port": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "noir": [
+      {
+        "stars": 11,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "noir-and-blanc-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nomad": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nord": [
+      {
+        "stars": 34,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nordic-nvim-theme": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nordic-theme": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "norminette": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "norrsken": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "not-material-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "not-too-shabby": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nova-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "npm-package-json-checker": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nstlgy-dark": [
+      {
+        "stars": 26,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nu": [
+      {
+        "stars": 21,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nuisance": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "numscript": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nunjucks": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nvim-nightfox": [
+      {
+        "stars": 105,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "nyxvamp-theme": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "oasis": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "oat": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "objective-c": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "objectscript": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "obsidian-sunset": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ocaml": [
+      {
+        "stars": 32,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ocean-dark-motifs": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ocean-green": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "oceanic-next": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "odin": [
+      {
+        "stars": 41,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "odoo": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "odoo-lsp": [
+      {
+        "stars": 56,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "oh-lucy": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "oldbook-theme": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "omnetpp": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "one-black-theme": [
+      {
+        "stars": 16,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "one-dark-darkened": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "one-dark-extended": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "one-dark-flat": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "one-dark-ocean": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "one-dark-pro": [
+      {
+        "stars": 49,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "one-dark-pro-enhanced": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "one-dark-pro-max": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "one-dark-pro-monokai-darker": [
+      {
+        "stars": 15,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "one-dark-pro-vivid-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "one-hunter": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "onurb": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "oolong": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "opaline-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "opencode": [
+      {
+        "stars": 118496,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "openfga": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "openmoji-icons": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "openscad": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "opentofu": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "optima-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "org": [
+      {
+        "stars": 37,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "orng": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "oscura": [
+      {
+        "stars": 10,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "oso": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "outrun": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "oxc": [
+      {
+        "stars": 179,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "oxocarbon": [
+      {
+        "stars": 22,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "p4": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pace-pro-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "package-swift-lsp": [
+      {
+        "stars": 12,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pact": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "palenight": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "panda-plus-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "panda-theme": [
+      {
+        "stars": 13,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pandora": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "papercolor": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "paraiso": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pascal": [
+      {
+        "stars": 10,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "path-of-exile": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pathy": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pbxproj": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "penumbra": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "penumbra-plus": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "perfect-dusk": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "perl": [
+      {
+        "stars": 13,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "perm": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "perplexity": [
+      {
+        "stars": 10,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pest": [
+      {
+        "stars": 19,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "phasmid-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "phine-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "phosphor-icons-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "php": [
+      {
+        "stars": 66,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "php-snippets": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "phpcs": [
+      {
+        "stars": 11,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "phpmd": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pica200": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pierre-theme": [
+      {
+        "stars": 27,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pigs-in-space": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pinata-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pkl": [
+      {
+        "stars": 9,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "plaintasks": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "plantuml": [
+      {
+        "stars": 11,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "plastic-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "platformio": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "plato-themes": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "playdate": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "poimandres": [
+      {
+        "stars": 9,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "polar-context-server": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "polar-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pollinations-mcp": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pony": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "popping-and-locking": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "postgres-context-server": [
+      {
+        "stars": 191,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "postgres-language-server": [
+      {
+        "stars": 11,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "powershell": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "prime-dark-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "prisma": [
+      {
+        "stars": 18,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "prisma-mcp": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "probe-rs": [
+      {
+        "stars": 29,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "processing": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "prolog": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "proto": [
+      {
+        "stars": 76654,
+        "scanned_at": "2026-03-09T03:34:40.742352Z"
+      }
+    ],
+    "psalm": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pug": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "puppet": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "puppydog-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "purescript": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "purr": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pycharm-modern-themes": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pylsp": [
+      {
+        "stars": 55,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pyrefly": [
+      {
+        "stars": 49,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "pytest-language-server": [
+      {
+        "stars": 89,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "python-refactoring": [
+      {
+        "stars": 20,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "python-requirements": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "python-snippets": [
+      {
+        "stars": 21,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "qlik": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "qml": [
+      {
+        "stars": 17,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "qqcode": [
+      {
+        "stars": 48,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "quadlet": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "quakec": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "quarto": [
+      {
+        "stars": 10,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "quasi-monochrome": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "qubik-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "quiet-light-theme": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "quill": [
+      {
+        "stars": 57,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "r": [
+      {
+        "stars": 43,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "racket": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "railgun": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "railscast": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "rainbow": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "rainbow-csv": [
+      {
+        "stars": 52,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "rapture-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "rcl": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "react-snippets": [
+      {
+        "stars": 9,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "react-snippets-es7": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "react-type-kit-snippets": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "react-typescript-snippets": [
+      {
+        "stars": 34,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "red": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "redscript": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "regedit": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "regex-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "rego": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "relay": [
+      {
+        "stars": 10,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "replicant": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "rescript": [
+      {
+        "stars": 21,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "retrofit-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "rhai": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "rich-vesper": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "risor": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "riverpod-dart-flutter-snippets": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "robot-framework": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "roc": [
+      {
+        "stars": 13,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ron": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "rose-pine-theme": [
+      {
+        "stars": 50,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "rosevin": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "roto": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "rover": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "rpmspec": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "rshtml": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "rst": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ruby": [
+      {
+        "stars": 120,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "rumdl": [
+      {
+        "stars": 13,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "rust-and-brown": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "rust-rover-dark-theme": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "rust-snippets": [
+      {
+        "stars": 9,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "s-dark-theme": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sagemath": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "scala": [
+      {
+        "stars": 97,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "scheme": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "scls": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "scss": [
+      {
+        "stars": 29,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "semgrep": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sentry-mcp": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "seoul256": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sequoia": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sercali": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "serena-context-server": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "serendipity": [
+      {
+        "stars": 18,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "seti-icons": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "severance-theme": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "shadcn-mcp": [
+      {
+        "stars": 16,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "shader-ls": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "shades-of-purple-theme": [
+      {
+        "stars": 9,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "shapels": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sharp-solarized-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "shhhed-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "shizukajapan-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "short-giraffe-theme": [
+      {
+        "stars": 13,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sieve": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "simple-darker": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "simula": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "siri": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sitruuna": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sl4y-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "slang": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "slate": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "slim": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "slint": [
+      {
+        "stars": 21928,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "smalisp": [
+      {
+        "stars": 32,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "smithy": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sml": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "smooth": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "snakemake": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "snazzy": [
+      {
+        "stars": 12,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "snazzy-light": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "snippet-iwonder": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "snow-fox-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "snowfall": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "snowflake": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "solarized": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "solarized-fp": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "solid-typescript-snippets": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "solidity": [
+      {
+        "stars": 65,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "soma": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sonder-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sonokai": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sorbet": [
+      {
+        "stars": 13,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sourcepawn": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "spai-zero-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "spiceflow-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "spicy": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sql": [
+      {
+        "stars": 51,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sqlc-snippets": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sqlmesh": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sqruff": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "squirrel": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "srcery": [
+      {
+        "stars": 10,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ssh-config": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "stakpak": [
+      {
+        "stars": 17,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "stan": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "starlark": [
+      {
+        "stars": 27,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "statamic-antlers": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "stimulus": [
+      {
+        "stars": 19,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "strace": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "structured-text": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "stylelint": [
+      {
+        "stars": 17,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "styx": [
+      {
+        "stars": 45,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sublime-mariana-theme": [
+      {
+        "stars": 9,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "subliminal-nightfall": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sumi-light": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sunset-drive": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "supaglass": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "supergreatmonokai": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "superhtml": [
+      {
+        "stars": 12,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "supertheme4": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "surrealql": [
+      {
+        "stars": 13,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sushi-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "svelte": [
+      {
+        "stars": 101,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "svelte-mcp": [
+      {
+        "stars": 11,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "svelte-snippets": [
+      {
+        "stars": 11,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sway": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "sweet-dracula": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "swift": [
+      {
+        "stars": 128,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "symbols": [
+      {
+        "stars": 18,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "symposium": [
+      {
+        "stars": 80,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "syntax": [
+      {
+        "stars": 17,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "synthwave": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "synthwave-alpha-theme": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "synthwave84": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "systemrdl": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "t3-theme": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tact": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "taiga-theme": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tailwind-theme": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tamarin": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tanuki": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tcl": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "templ": [
+      {
+        "stars": 43,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "templeos-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tera": [
+      {
+        "stars": 16,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "terraform": [
+      {
+        "stars": 17,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "terraform-context-server": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "terrible-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tex-japanese-formatter": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "texpresso": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "textproto": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tflint": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "the-best-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "the-dark-side": [
+      {
+        "stars": 73,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "the-pure-tone": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "theme-lince": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "thorn-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "thrift": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tiniri": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tla-plus": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tm-twilight": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tmux": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "todotxt": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tokyo-maple-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tokyo-night": [
+      {
+        "stars": 93,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tokyo-night-dark": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tombi": [
+      {
+        "stars": 788,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "toml": [
+      {
+        "stars": 15,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tomorrow-min-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tomorrow-night-burns-theme": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tomorrow-theme": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ton": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "toon": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tql": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tree-sitter-query": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tron-legacy": [
+      {
+        "stars": 8,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ts-macro": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tsar": [
+      {
+        "stars": 12,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tsarcasm": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "tsgo": [
+      {
+        "stars": 176,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "turtle": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "twig": [
+      {
+        "stars": 14,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "twilight": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "txtar": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ty": [
+      {
+        "stars": 37,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "typescript-snippets": [
+      {
+        "stars": 15,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "typespec": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "typos": [
+      {
+        "stars": 58,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "typst": [
+      {
+        "stars": 138,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ucode": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "uiua": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ultimate-dark-neo": [
+      {
+        "stars": 14,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ultralytics-snippets": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "umbralkai": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "umka": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "underground-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ungrammar": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "unicode": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "unison": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "united-gnome": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "unity-snippets": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "unocss": [
+      {
+        "stars": 23,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "unoflat": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "usd": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "utl": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "v": [
+      {
+        "stars": 33,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "v-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "v0-theme": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vacuum": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vague": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vala": [
+      {
+        "stars": 15,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vale": [
+      {
+        "stars": 14,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "valt": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vapor-theme": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vcard": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vento": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vercel-carbon-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vercel-theme": [
+      {
+        "stars": 41,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "verilog": [
+      {
+        "stars": 23,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "veryl": [
+      {
+        "stars": 897,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vesper": [
+      {
+        "stars": 27,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vesper-blur": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vhdl": [
+      {
+        "stars": 12,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vhs": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vhs80-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vibescript": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vibrant-abyss": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "viewtree": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vim-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vintergata": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "visual-assist-dark": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vitesse": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vitesse-theme-refined": [
+      {
+        "stars": 9,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vitest-snippets": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vrl": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vscode-classic-theme": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vscode-dark-high-contrast": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vscode-dark-modern": [
+      {
+        "stars": 38,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vscode-dark-plus": [
+      {
+        "stars": 10,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vscode-dark-polished": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vscode-great-icons": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vscode-icons": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vscode-light-modern": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vscode-light-plus": [
+      {
+        "stars": 12,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vscode-modern": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vscode-monokai-charcoal": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vue": [
+      {
+        "stars": 159,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vue-snippets": [
+      {
+        "stars": 10,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vue-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "vynora": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "wakatime": [
+      {
+        "stars": 163,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "wakfu-theme": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "warm-light": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "warp-one-dark": [
+      {
+        "stars": 13,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "warplabs": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "wat": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "wc-language-server": [
+      {
+        "stars": 34,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "wdl": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "webidl": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "wgsl": [
+      {
+        "stars": 13,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "wgsl-wesl": [
+      {
+        "stars": 20,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "whkd": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "wikitext": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "wit": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "witchesbrew-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "wow-toc": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "wren": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "wren-lsp": [
+      {
+        "stars": 15,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "wxml": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "xcode-themes": [
+      {
+        "stars": 67,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "xdr-naive": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "xmake": [
+      {
+        "stars": 7,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "xml": [
+      {
+        "stars": 23,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "xonsh": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "xy-zed": [
+      {
+        "stars": 72,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "yaka": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "yamura": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "yang": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "yara": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "yarn-spinner": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "yellowed": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "your-name-theme": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "yue-theme": [
+      {
+        "stars": 5,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "yugen": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zabby": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zed-legacy-themes": [
+      {
+        "stars": 15,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zedbox": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zedburn": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zedokai": [
+      {
+        "stars": 136,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zedokai-darkest-machine": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zedrack-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zedspace": [
+      {
+        "stars": 14,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zedwaita": [
+      {
+        "stars": 11,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zeek": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zen": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zen-abyssal": [
+      {
+        "stars": 11,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zero-trust-theme": [
+      {
+        "stars": 1,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zig": [
+      {
+        "stars": 65,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "ziggy": [
+      {
+        "stars": 4,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zoegi-theme": [
+      {
+        "stars": 6,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zokrates": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zomorrod-theme": [
+      {
+        "stars": 0,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zord-theme": [
+      {
+        "stars": 3,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ],
+    "zuban": [
+      {
+        "stars": 2,
+        "scanned_at": "2026-03-09T04:32:28.401726Z"
+      }
+    ]
+  }
+}
