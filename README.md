@@ -16,7 +16,7 @@
 </p>
 
 <p>
-  <sub>Fully automated · Data sourced from the <a href="https://github.com/zed-industries/extensions">official Zed extension registry</a> · Last update: <strong>2026-04-25</strong></sub>
+  <sub>Fully automated · Data sourced from the <a href="https://github.com/zed-industries/extensions">official Zed extension registry</a> · Last update: <strong>2026-04-26</strong></sub>
 </p>
 
 </div>
@@ -61,33 +61,33 @@ The most popular Zed extensions ranked by GitHub stars.
 | 4 | [Clice](https://github.com/clice-io/clice) | 1.2k | 🌐 Language | Active | A next-generation C++ language server for modern C++, focused on high performance and deep code intelligence |
 | 5 | [Veryl](https://github.com/veryl-lang/veryl) | 921 | 📦 Other | Active | Veryl: A Modern Hardware Description Language |
 | 6 | [Tombi](https://github.com/tombi-toml/tombi) | 875 | 🔧 Tool | Active | TOML Formatter / Linter / Language Server |
-| 7 | [Lisette](https://github.com/ivov/lisette) | 868 | 🌐 Language | Active | A little language inspired by Rust that compiles to Go |
-| 8 | [Catppuccin](https://github.com/catppuccin/zed) | 788 | 🎨 Theme | Active | 🦀 Soothing pastel theme for Zed |
+| 7 | [Lisette](https://github.com/ivov/lisette) | 874 | 🌐 Language | Active | A little language inspired by Rust that compiles to Go |
+| 8 | [Catppuccin](https://github.com/catppuccin/zed) | 790 | 🎨 Theme | Active | 🦀 Soothing pastel theme for Zed |
 | 9 | [Biome](https://github.com/biomejs/biome-zed) | 452 | 🌐 Language | Active | Biome extension for Zed |
-| 10 | [Air](https://github.com/posit-dev/air) | 409 | 📦 Other | Active | R formatter and language server |
+| 10 | [Air](https://github.com/posit-dev/air) | 410 | 📦 Other | Active | R formatter and language server |
 | 11 | [Discord Presence](https://github.com/xhyrom/zed-discord-presence) | 398 | 🌐 Language | Active | extension for zed that adds support for discord rich presence using lsp |
 | 12 | [Catppuccin Blur](https://github.com/jenslys/zed-catppuccin-blur) | 305 | 🎨 Theme | Active | Catppuccin Theme but as blurred variants + custom ones |
-| 13 | [Csskit Lsp](https://github.com/csskit/csskit) | 275 | 🔧 Tool | Active | Refreshing CSS |
-| 14 | [Oxc](https://github.com/oxc-project/oxc-zed) | 224 | 🌐 Language | Active | Oxc extension for Zed |
+| 13 | [Csskit Lsp](https://github.com/csskit/csskit) | 276 | 🔧 Tool | Active | Refreshing CSS |
+| 14 | [Oxc](https://github.com/oxc-project/oxc-zed) | 226 | 🌐 Language | Active | Oxc extension for Zed |
 | 15 | [Catppuccin Icons](https://github.com/catppuccin/zed-icons) | 220 | 🎨 Theme | Active | 🦊 Soothing pastel icons for Zed |
-| 16 | [Agnix](https://github.com/avifenesh/agnix) | 208 | 🔧 Tool | Active | The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for ... |
+| 16 | [Agnix](https://github.com/avifenesh/agnix) | 209 | 🔧 Tool | Active | The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for ... |
 | 17 | [Postgres Context Server](https://github.com/zed-extensions/postgres-context-server) | 196 | 🔧 Tool | Active | An extension providing a Model Context Server extension for PostgreSQL |
-| 18 | [tsgo](https://github.com/zed-extensions/tsgo) | 192 | 🔧 Tool | Active | Extension for Zed to support TypeScript Native |
-| 19 | [Java](https://github.com/zed-extensions/java) | 177 | 🌐 Language | Active | Extension for Zed to support Java |
+| 18 | [tsgo](https://github.com/zed-extensions/tsgo) | 193 | 🔧 Tool | Active | Extension for Zed to support TypeScript Native |
+| 19 | [Java](https://github.com/zed-extensions/java) | 178 | 🌐 Language | Active | Extension for Zed to support Java |
 | 20 | [Vue](https://github.com/zed-extensions/vue) | 177 | 🌐 Language | Active | Vue support |
 | 21 | [Css Modules Kit](https://github.com/mizdra/css-modules-kit) | 176 | 🌐 Language | Active | A toolkit for making CSS Modules useful. |
 | 22 | [wakatime](https://github.com/wakatime/zed-wakatime) | 175 | 🌐 Language | Active | Zed plugin for automatic time tracking and metrics generated from your programming activity. |
-| 23 | [GDScript](https://github.com/GDQuest/zed-gdscript) | 151 | 🌐 Language | Active | Zed support for the Godot game engine and the GDScript language |
+| 23 | [GDScript](https://github.com/GDQuest/zed-gdscript) | 152 | 🌐 Language | Active | Zed support for the Godot game engine and the GDScript language |
 | 24 | [Typst](https://github.com/WeetHet/typst.zed) | 150 | 🌐 Language | Active | Typst extension for zed |
 | 25 | [macOS Classic Theme](https://github.com/huacnlee/zed-theme-macos-classic) | 147 | 🎨 Theme | Active | A macOS native style theme for Zed, let it same like native app in macOS. |
 | 26 | [Zedokai](https://github.com/slymax/zedokai) | 141 | 🎨 Theme | Active | a theme for Zed based on the Monokai Pro color scheme |
-| 27 | [Angular](https://github.com/nathansbradshaw/zed-angular) | 138 | 🌐 Language | Active | Angular Language support |
+| 27 | [Angular](https://github.com/nathansbradshaw/zed-angular) | 139 | 🌐 Language | Active | Angular Language support |
 | 28 | [Comments Highlighter](https://github.com/thedadams/zed-comment) | 135 | 🌐 Language | Active | A comment extension for the Zed editor |
 | 29 | [Swift](https://github.com/samuser107/zed-swift-extension) | 132 | 🌐 Language | Active | Extension for Zed to support Swift |
-| 30 | [Ruby](https://github.com/zed-extensions/ruby) | 124 | 🌐 Language | Active | The Ruby language support for Zed editor |
-| 31 | [C#](https://github.com/zed-extensions/csharp) | 123 | 🌐 Language | Active | C# support |
-| 32 | [Jarl](https://github.com/etiennebacher/jarl) | 123 | 📦 Other | Active | Just another R linter |
-| 33 | [LaTeX](https://github.com/rzukic/zed-latex) | 123 | 🌐 Language | Active | LaTeX language server and syntax highlighting for Zed. See wiki on GitHub for help. |
+| 30 | [LaTeX](https://github.com/rzukic/zed-latex) | 124 | 🌐 Language | Active | LaTeX language server and syntax highlighting for Zed. See wiki on GitHub for help. |
+| 31 | [Ruby](https://github.com/zed-extensions/ruby) | 124 | 🌐 Language | Active | The Ruby language support for Zed editor |
+| 32 | [C#](https://github.com/zed-extensions/csharp) | 123 | 🌐 Language | Active | C# support |
+| 33 | [Jarl](https://github.com/etiennebacher/jarl) | 123 | 📦 Other | Active | Just another R linter |
 | 34 | [Nightfox Themes - opaque / blurred](https://github.com/cange/nightfox.zed) | 118 | 🎨 Theme | Active | A port of the Neovim theme to Zed editor |
 | 35 | [Symposium](https://github.com/symposium-dev/symposium) | 114 | 📦 Other | Active | AI the Rust Way |
 | 36 | [Git Firefly](https://github.com/d1y/git_firefly) | 110 | 🌐 Language | Active | Provides Git Syntax Highlighting |
@@ -99,12 +99,12 @@ The most popular Zed extensions ranked by GitHub stars.
 | 42 | [Nix](https://github.com/hasit/zed-nix) | 103 | 🌐 Language | Active | Nix language support in Zed |
 | 43 | [Scala](https://github.com/scalameta/metals-zed) | 101 | 🌐 Language | Active | Zed plugin for Metals |
 | 44 | [Tokyo Night Themes](https://github.com/ssaunderss/zed-tokyo-night) | 100 | 🎨 Theme | Active | Tokyo Night Themes for the Zed IDE |
-| 45 | [Pytest Language Server](https://github.com/bellini666/pytest-language-server) | 96 | 📦 Other | Active | 🔥 Pytest Language Server |
+| 45 | [Pytest Language Server](https://github.com/bellini666/pytest-language-server) | 97 | 📦 Other | Active | 🔥 Pytest Language Server |
 | 46 | [LiveServer](https://github.com/frederik-uni/zed-live-server) | 92 | 🔧 Tool | Active | Launch a development local Server with live reload feature |
 | 47 | [Github Theme](https://github.com/PyaeSoneAungRgn/github-zed-theme) | 88 | 🎨 Theme | Active | GitHub's Zed themes  |
 | 48 | [harper](https://github.com/zed-extensions/harper) | 85 | 🌐 Language | Active | Harper LS extension for the Zed editor |
 | 49 | [GitHub MCP Server](https://github.com/LoamStudios/zed-mcp-server-github) | 85 | 🔧 Tool | Active | A GitHub MCP Server extension for Zed |
-| 50 | [Material Icon Theme](https://github.com/zed-extensions/material-icon-theme) | 83 | 🎨 Theme | Active | Material Design icons for Zed |
+| 50 | [Material Icon Theme](https://github.com/zed-extensions/material-icon-theme) | 84 | 🎨 Theme | Active | Material Design icons for Zed |
 
 <div align="right"><sub><a href="#contents">↑ Back to top</a></sub></div>
 
@@ -116,26 +116,26 @@ Extensions gaining the most stars over the past 7 days.
 
 | Extension | Stars | Growth | Description |
 |-----------|------:|-------:|-------------|
-| [Opencode](https://github.com/sst/opencode) | 149.1k | 🔥 +3483 | The open source coding agent. |
-| [Mistral Vibe](https://github.com/mistralai/mistral-vibe) | 4.0k | 🔥 +69 | Minimal CLI coding agent by Mistral |
-| [Slint](https://github.com/slint-ui/slint) | 22.3k | 🔥 +60 | Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python ... |
-| [Agnix](https://github.com/avifenesh/agnix) | 208 | +19 | The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for ... |
+| [Opencode](https://github.com/sst/opencode) | 149.6k | 🔥 +3476 | The open source coding agent. |
+| [Mistral Vibe](https://github.com/mistralai/mistral-vibe) | 4.0k | 🔥 +72 | Minimal CLI coding agent by Mistral |
+| [Slint](https://github.com/slint-ui/slint) | 22.3k | 🔥 +59 | Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python ... |
+| [Agnix](https://github.com/avifenesh/agnix) | 209 | +20 | The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for ... |
+| [Lisette](https://github.com/ivov/lisette) | 874 | +19 | A little language inspired by Rust that compiles to Go |
 | [Symposium](https://github.com/symposium-dev/symposium) | 114 | +18 | AI the Rust Way |
-| [Lisette](https://github.com/ivov/lisette) | 868 | +16 | A little language inspired by Rust that compiles to Go |
-| [Flexoki Themes](https://github.com/kepano/flexoki) | 3.3k | +15 | An inky color scheme for prose and code. |
-| [Tombi](https://github.com/tombi-toml/tombi) | 875 | +12 | TOML Formatter / Linter / Language Server |
-| [Catppuccin](https://github.com/catppuccin/zed) | 788 | +10 | 🦀 Soothing pastel theme for Zed |
-| [tsgo](https://github.com/zed-extensions/tsgo) | 192 | +8 | Extension for Zed to support TypeScript Native |
-| [Discord Presence](https://github.com/xhyrom/zed-discord-presence) | 398 | +6 | extension for zed that adds support for discord rich presence using lsp |
-| [ultraViolet](https://github.com/Gurvirr/zed-ultraViolet) | 80 | +6 | A dark, violet-toned theme designed for quality & visual comfort ◡̈ |
-| [Oxc](https://github.com/oxc-project/oxc-zed) | 224 | +5 | Oxc extension for Zed |
-| [Dart](https://github.com/zed-extensions/dart) | 81 | +4 | Dart support |
-| [Mermaid](https://github.com/gabeidx/zed-mermaid) | 63 | +4 | Mermaid support for Zed |
-| [Biome](https://github.com/biomejs/biome-zed) | 452 | +3 | Biome extension for Zed |
-| [Bloc](https://github.com/felangel/bloc) | 12.4k | +3 | A predictable state management library that helps implement the BLoC design pattern |
+| [Flexoki Themes](https://github.com/kepano/flexoki) | 3.3k | +14 | An inky color scheme for prose and code. |
+| [Tombi](https://github.com/tombi-toml/tombi) | 875 | +11 | TOML Formatter / Linter / Language Server |
+| [Catppuccin](https://github.com/catppuccin/zed) | 790 | +9 | 🦀 Soothing pastel theme for Zed |
+| [tsgo](https://github.com/zed-extensions/tsgo) | 193 | +9 | Extension for Zed to support TypeScript Native |
+| [Oxc](https://github.com/oxc-project/oxc-zed) | 226 | +6 | Oxc extension for Zed |
+| [Dart](https://github.com/zed-extensions/dart) | 82 | +5 | Dart support |
+| [Discord Presence](https://github.com/xhyrom/zed-discord-presence) | 398 | +5 | extension for zed that adds support for discord rich presence using lsp |
+| [ultraViolet](https://github.com/Gurvirr/zed-ultraViolet) | 80 | +5 | A dark, violet-toned theme designed for quality & visual comfort ◡̈ |
+| [Pierre Theme](https://github.com/pierrecomputer/theme) | 34 | +4 | Custom theme for VS Code and Shiki projects, built with Pierre's color scheme. |
+| [Aura Theme](https://github.com/daltonmenezes/aura-theme) | 3.8k | +3 | ✨ A beautiful dark theme for your favorite apps. |
 | [Design Tokens](https://github.com/bennypowers/asimonim) | 20 | +3 | The Design Tokens Multitool. CLI and go library; LSP and MCP; Generator and converter |
+| [GDScript](https://github.com/GDQuest/zed-gdscript) | 152 | +3 | Zed support for the Godot game engine and the GDScript language |
 | [Git Firefly](https://github.com/d1y/git_firefly) | 110 | +3 | Provides Git Syntax Highlighting |
-| [macOS Classic Theme](https://github.com/huacnlee/zed-theme-macos-classic) | 147 | +3 | A macOS native style theme for Zed, let it same like native app in macOS. |
+| [Mermaid](https://github.com/gabeidx/zed-mermaid) | 63 | +3 | Mermaid support for Zed |
 
 
 <div align="right"><sub><a href="#contents">↑ Back to top</a></sub></div>
@@ -168,7 +168,7 @@ New extensions added to the Zed registry in the last 30 days.
 | [Rosewood](https://github.com/ayush-porwal/zed-rosewood-theme) | 0 | 🎨 Theme | A warm transparent theme. |
 | [Lume Theme](https://github.com/danfry1/lume-zed-theme) | 0 | 🎨 Theme | Lume color theme for Zed |
 | [Batsignal](https://github.com/kijv/batsignal-zed) | 0 | 📦 Other |  |
-| [Lisette](https://github.com/ivov/lisette) | 868 | 🌐 Language | A little language inspired by Rust that compiles to Go |
+| [Lisette](https://github.com/ivov/lisette) | 874 | 🌐 Language | A little language inspired by Rust that compiles to Go |
 | [Kubernetes Snippets](https://github.com/zed-kubernetes/kubernetes-snippets) | 1 | 📦 Other | Kubernetes YAML snippets with zero-config schema validation. |
 | [Framer Dark Theme](https://github.com/gxanshu/zed-framer-dark) | 1 | 🎨 Theme | A dark, minimalist theme for the Zed editor, ported from Framer's code editor. |
 | [WooCommerce Snippets](https://github.com/renzojohnson/woocommerce-snippets) | 0 | 📦 Other | WooCommerce snippets for Zed editor — 180 curated patterns with smart completions |
@@ -192,7 +192,7 @@ Color themes and icon packs for Zed.
 |--:|-----------|------:|-------------|
 | 1 | [Aura Theme](https://github.com/daltonmenezes/aura-theme) | 3.8k | ✨ A beautiful dark theme for your favorite apps. |
 | 2 | [Flexoki Themes](https://github.com/kepano/flexoki) | 3.3k | An inky color scheme for prose and code. |
-| 3 | [Catppuccin](https://github.com/catppuccin/zed) | 788 | 🦀 Soothing pastel theme for Zed |
+| 3 | [Catppuccin](https://github.com/catppuccin/zed) | 790 | 🦀 Soothing pastel theme for Zed |
 | 4 | [Catppuccin Blur](https://github.com/jenslys/zed-catppuccin-blur) | 305 | Catppuccin Theme but as blurred variants + custom ones |
 | 5 | [Catppuccin Icons](https://github.com/catppuccin/zed-icons) | 220 | 🦊 Soothing pastel icons for Zed |
 | 6 | [macOS Classic Theme](https://github.com/huacnlee/zed-theme-macos-classic) | 147 | A macOS native style theme for Zed, let it same like native app in macOS. |
@@ -200,7 +200,7 @@ Color themes and icon packs for Zed.
 | 8 | [Nightfox Themes - opaque / blurred](https://github.com/cange/nightfox.zed) | 118 | A port of the Neovim theme to Zed editor |
 | 9 | [Tokyo Night Themes](https://github.com/ssaunderss/zed-tokyo-night) | 100 | Tokyo Night Themes for the Zed IDE |
 | 10 | [Github Theme](https://github.com/PyaeSoneAungRgn/github-zed-theme) | 88 | GitHub's Zed themes  |
-| 11 | [Material Icon Theme](https://github.com/zed-extensions/material-icon-theme) | 83 | Material Design icons for Zed |
+| 11 | [Material Icon Theme](https://github.com/zed-extensions/material-icon-theme) | 84 | Material Design icons for Zed |
 | 12 | [The Dark Side](https://github.com/Imgkl/the-dark-side) | 81 | True Dark Theme for Zed IDE |
 | 13 | [ultraViolet](https://github.com/Gurvirr/zed-ultraViolet) | 80 | A dark, violet-toned theme designed for quality & visual comfort ◡̈ |
 | 14 | [Fleet Themes](https://github.com/skarline/zed-fleet-themes) | 78 | 🚢 Transform Zed with Fleet's sleek, modern aesthetic for a sublime coding experience. |
@@ -216,7 +216,7 @@ Color themes and icon packs for Zed.
 | 24 | [Color Highlight](https://github.com/huacnlee/color-lsp) | 44 | A document color language server. |
 | 25 | [JetBrains New UI Theme](https://github.com/kpitt/zed-theme-intellij-newui) | 44 | Zed editor theme based on the colors of the JetBrains IntelliJ "New UI". |
 | 26 | [Vercel Theme](https://github.com/NathanBrodin/zed-vercel-theme) | 44 | The Vercel Theme, for Zed |
-| 27 | [Charmed Icons](https://github.com/jmesrje/zed-charmed-icons) | 41 | A charming icon theme for Zed |
+| 27 | [Charmed Icons](https://github.com/jmesrje/zed-charmed-icons) | 42 | A charming icon theme for Zed |
 | 28 | [Everforest Theme](https://github.com/ThomasAlban/everforest-zed) | 40 | 🌲 Comfortable & Pleasant Color Scheme for Zed |
 | 29 | [VSCode Dark Modern](https://github.com/kcamcam/vscode_dark_modern.zed) | 40 | VS Code Dark Modern theme for Zed |
 | 30 | [Alabaster](https://github.com/tsimoshka/zed-theme-alabaster) | 39 | Alabaster color scheme (port of https://github.com/tonsky/sublime-scheme-alabaster) |
@@ -224,7 +224,7 @@ Color themes and icon packs for Zed.
 | 32 | [base16](https://github.com/bswinnerton/base16-zed) | 37 | The base16 themes for the Zed editor |
 | 33 | [0x96f Theme](https://github.com/0x96f-org/0x96f-zed-theme) | 36 | A simple and pleasant dark theme for Zed |
 | 34 | [Nord Themes](https://github.com/mikasius/zed-nord-theme) | 35 | Nord theme for zed |
-| 35 | [Pierre Theme](https://github.com/pierrecomputer/theme) | 33 | Custom theme for VS Code and Shiki projects, built with Pierre's color scheme. |
+| 35 | [Pierre Theme](https://github.com/pierrecomputer/theme) | 34 | Custom theme for VS Code and Shiki projects, built with Pierre's color scheme. |
 | 36 | [Colorizer](https://github.com/tamimhasandev/colorizer) | 30 | Colorizer is a zed code editor theme that will help you write better code with a better look |
 | 37 | [New Darcula Theme](https://github.com/e-simpson/new-darcula-z) | 30 | Modern take on the Darcula theme, now for Zed. |
 | 38 | [Call trans opt: received. 2-19-98 13:24:18 REC:Log> Theme](https://github.com/takk8is/call-trans-opt-received-2-19-98-13-24-18-rec-log-theme-for-zed) | 28 | A iconic aesthetic of the shell screen from the 1999 film The Matrix, Inspired by the film's opening command Call tra... |
@@ -237,11 +237,11 @@ Color themes and icon packs for Zed.
 | 45 | [JetBrains New UI Icon Theme](https://github.com/ankddev/zed-jetbrains-newui-icons) | 22 | JetBrains New UI Icons Theme for Zed editor. |
 | 46 | [Oxocarbon (IBM Carbon) Theme](https://github.com/Takk8IS/oxocarbon-theme-for-zed) | 22 | The "Oxocarbon Theme for Zed" brings the sleek, modern aesthetics inspired by IBM Carbon Design System to your Zed ed... |
 | 47 | [Evil Rabbit Theme](https://github.com/kettanaito/zed-theme-evil-rabbit) | 21 | An Evil Rabbit theme for Zed. |
-| 48 | [GitHub Dark Default](https://github.com/MordFustang21/zed-github-dark) | 20 | A GitHub dark theme for Zed |
-| 49 | [Halcyon Theme](https://github.com/hichemfantar/halcyon-zed) | 20 | A dark blue theme for Zed |
-| 50 | [Modest Dark](https://github.com/timcole/modest-dark) | 20 | A modest zed theme based on one dark but with brighter colours on a darker background |
-| 51 | [Serendipity Themes](https://github.com/meocoder31099/Serendipity-Theme-Zed) | 20 | Relaxed, gentle and modern - Serendipity theme for Zed |
-| 52 | [Symbols](https://github.com/sebastiandotdev/zed-symbols) | 20 | A simple file icon theme for Zed. |
+| 48 | [Symbols](https://github.com/sebastiandotdev/zed-symbols) | 21 | A simple file icon theme for Zed. |
+| 49 | [GitHub Dark Default](https://github.com/MordFustang21/zed-github-dark) | 20 | A GitHub dark theme for Zed |
+| 50 | [Halcyon Theme](https://github.com/hichemfantar/halcyon-zed) | 20 | A dark blue theme for Zed |
+| 51 | [Modest Dark](https://github.com/timcole/modest-dark) | 20 | A modest zed theme based on one dark but with brighter colours on a darker background |
+| 52 | [Serendipity Themes](https://github.com/meocoder31099/Serendipity-Theme-Zed) | 20 | Relaxed, gentle and modern - Serendipity theme for Zed |
 | 53 | [Syntax](https://github.com/syntaxfm/syntax-zed-theme) | 19 | A Syntax theme for Zed. |
 | 54 | [Matte Black](https://github.com/tahayvr/matte-black-zed) | 18 | A low distraction dark theme for Zed Editor |
 | 55 | [Adwaita Pastel Theme](https://github.com/Benjamin-Davies/zed-theme-adwaita) | 17 | Adwaita (GNOME) theme for Zed with bold syntax highlighting borrowed from Catppuccin |
@@ -360,39 +360,39 @@ Color themes and icon packs for Zed.
 | 168 | [City Lights](https://github.com/DP19/zed-theme-city-lights) | 4 | City Lights Theme for Zed |
 | 169 | [Transparent Prism Collection](https://github.com/MagnusPladsen/dark-glass-theme) | 4 | A translucent dark theme for Zed editor based on Zedokai Darker (Filter Spectrum) |
 | 170 | [Dogi](https://github.com/DogukanUrker/DogiZed) | 4 | A minimalist flat theme with pure black and white backgrounds, vibrant syntax colors, and consistent medium font weig... |
-| 171 | [Ghost in the Shell Theme](https://github.com/ddoemonn/ghost-in-the-shell-theme) | 4 | A cyberpunk-inspired theme for Zed editor based on Ghost in the Shell. |
-| 172 | [Hacker Night Vision Theme](https://github.com/Takk8IS/hacker-night-vision-theme-for-zed) | 4 | 📺 A monochromatic theme with a vibrant palette for effective contrast. Inspired by secret agency operating systems... |
-| 173 | [Iceberg Theme](https://github.com/EFDos/iceberg-zed-theme) | 4 | Zed theme based on the Iceberg Theme |
-| 174 | [Little League Theme](https://github.com/ilikescience/little-league) | 4 | Little League: a VS Code theme with quiet, harmonious colors. |
-| 175 | [Mau Theme](https://github.com/mauscoelho/zed-mau-themes) | 4 | Mau Zed theme |
-| 176 | [Monospace Theme](https://github.com/Abhinav5383/zed-monospace-theme) | 4 | IDX Monospace theme for zed |
-| 177 | [msun-dark](https://github.com/mikesun/msun-dark-zed) | 4 | Minimalist dark themes |
-| 178 | [NeoSolarized Theme](https://github.com/carlocaione/NeoSolarized.zed) | 4 | NeoSolarized Zed theme. |
-| 179 | [Noctis](https://github.com/sidwachche/noctis-port) | 4 | A Noctis theme for Zed |
-| 180 | [Oceanic Next Theme](https://github.com/rkunev/oceanic-next) | 4 | A port of the popular Oceanic Next theme for the Zed editor. |
-| 181 | [Outrun](https://github.com/Acepie/OutrunZedTheme) | 4 | A theme I made for [Zed](https://zed.dev/) |
-| 182 | [PaperColor](https://github.com/emirror-de/papercolor-zed) | 4 | The original PaperColor Theme, inspired by Google Material Design, ported to Zed. |
-| 183 | [Synthwave84](https://github.com/hydepwns/synthwave84-zed) | 4 | Synthwave84 for Zed editor |
-| 184 | [Tiniri](https://github.com/vladstudio/tiniri-zed) | 4 | Calm and cozy color themes with warm, desaturated colors in light and dark variants |
-| 185 | [Vesper Blur](https://github.com/taras-tereschenko/vesper-blur) | 4 | Vesper dark theme with blur/transparency effects for Zed |
-| 186 | [VSCode classic theme](https://github.com/CharlesSBL/-vscode_classic_theme.zed) | 4 | VSCode Classic Theme |
-| 187 | [Wakfu Theme](https://github.com/JulesSorensen/zed-wakfu-theme) | 4 | Wakfu theme for Zed IDE |
-| 188 | [Zedburn](https://github.com/rmoraes92/zedburn) | 4 | Zenburn for Zed Editor |
-| 189 | [Zen](https://github.com/kennyheard/zed-theme-zen) | 4 | A Zed theme designed for clarity and focus. |
-| 190 | [Aira Theme](https://github.com/talison-cardoso/aira-zed) | 3 | A calm green theme for Zed, crafted to enhance focus and visual comfort. |
-| 191 | [Alabaster Dark](https://github.com/findrakecil/alabaster-dark-zed-theme) | 3 | Alabaster Dark theme for Zed (ported from https://github.com/tonsky/sublime-scheme-alabaster) |
-| 192 | [Aquarium Theme](https://github.com/biaqat/aquarium-theme-zed) | 3 | A colorful, dark, cozy Zed port of the Aquarium theme. |
-| 193 | [Ariake](https://github.com/artivilla/zed-ariake-theme) | 3 | Zed IDE Ariake themes inspired by Japanese traditional colors and ancient poetry |
-| 194 | [Atom One Theme](https://github.com/Stelath/zed-atom-one-theme) | 3 | A port of the old Atom text editor's theme to Zed |
-| 195 | [Aylin Theme](https://github.com/biaqat/aylin-theme-zed) | 3 | A port of a port of Aylin: a modern and minimal dark theme with bright colors for Zed |
-| 196 | [Bamboo](https://github.com/LoamStudios/zed-bamboo-theme) | 3 | A port of the Bamboo theme to Zed |
-| 197 | [CodeSandbox Theme](https://github.com/MartinRybergLaude/zed-theme-codesandbox) | 3 | An unofficial CodeSandbox theme for Zed |
-| 198 | [Cursor Theme](https://github.com/takk8is/cursor-theme-for-zed) | 3 | 📺 A theme that recreates the Cursor IDE experience within Zed, bringing familiar styling and interface elements fr... |
-| 199 | [Dev Magic](https://github.com/susanta96/dev-magic) | 3 | A magical dark theme for Zed Code Editor |
-| 200 | [Eiffel Theme](https://github.com/demiurg/zed-theme-eiffel) | 3 | A port of the Eiffel Textmate theme. |
-| 201 | [Ember Theme](https://github.com/biaqat/ember-theme-zed) | 3 | Ember Colorscheme port for Zed |
-| 202 | [Focus Theme](https://github.com/jigyansunanda/focus) | 3 | Focus is a collection of themes for Zed code editor to help you focus only on code. |
-| 203 | [gafelson Theme](https://github.com/GafelSon/zed-theme) | 3 | A sleek, focused dark theme for Zed |
+| 171 | [gafelson Theme](https://github.com/GafelSon/zed-theme) | 4 | A sleek, focused dark theme for Zed |
+| 172 | [Ghost in the Shell Theme](https://github.com/ddoemonn/ghost-in-the-shell-theme) | 4 | A cyberpunk-inspired theme for Zed editor based on Ghost in the Shell. |
+| 173 | [Hacker Night Vision Theme](https://github.com/Takk8IS/hacker-night-vision-theme-for-zed) | 4 | 📺 A monochromatic theme with a vibrant palette for effective contrast. Inspired by secret agency operating systems... |
+| 174 | [Iceberg Theme](https://github.com/EFDos/iceberg-zed-theme) | 4 | Zed theme based on the Iceberg Theme |
+| 175 | [Little League Theme](https://github.com/ilikescience/little-league) | 4 | Little League: a VS Code theme with quiet, harmonious colors. |
+| 176 | [Mau Theme](https://github.com/mauscoelho/zed-mau-themes) | 4 | Mau Zed theme |
+| 177 | [Monospace Theme](https://github.com/Abhinav5383/zed-monospace-theme) | 4 | IDX Monospace theme for zed |
+| 178 | [msun-dark](https://github.com/mikesun/msun-dark-zed) | 4 | Minimalist dark themes |
+| 179 | [NeoSolarized Theme](https://github.com/carlocaione/NeoSolarized.zed) | 4 | NeoSolarized Zed theme. |
+| 180 | [Noctis](https://github.com/sidwachche/noctis-port) | 4 | A Noctis theme for Zed |
+| 181 | [Oceanic Next Theme](https://github.com/rkunev/oceanic-next) | 4 | A port of the popular Oceanic Next theme for the Zed editor. |
+| 182 | [Outrun](https://github.com/Acepie/OutrunZedTheme) | 4 | A theme I made for [Zed](https://zed.dev/) |
+| 183 | [PaperColor](https://github.com/emirror-de/papercolor-zed) | 4 | The original PaperColor Theme, inspired by Google Material Design, ported to Zed. |
+| 184 | [Synthwave84](https://github.com/hydepwns/synthwave84-zed) | 4 | Synthwave84 for Zed editor |
+| 185 | [Tiniri](https://github.com/vladstudio/tiniri-zed) | 4 | Calm and cozy color themes with warm, desaturated colors in light and dark variants |
+| 186 | [Vesper Blur](https://github.com/taras-tereschenko/vesper-blur) | 4 | Vesper dark theme with blur/transparency effects for Zed |
+| 187 | [VSCode classic theme](https://github.com/CharlesSBL/-vscode_classic_theme.zed) | 4 | VSCode Classic Theme |
+| 188 | [Wakfu Theme](https://github.com/JulesSorensen/zed-wakfu-theme) | 4 | Wakfu theme for Zed IDE |
+| 189 | [Zedburn](https://github.com/rmoraes92/zedburn) | 4 | Zenburn for Zed Editor |
+| 190 | [Zen](https://github.com/kennyheard/zed-theme-zen) | 4 | A Zed theme designed for clarity and focus. |
+| 191 | [Aira Theme](https://github.com/talison-cardoso/aira-zed) | 3 | A calm green theme for Zed, crafted to enhance focus and visual comfort. |
+| 192 | [Alabaster Dark](https://github.com/findrakecil/alabaster-dark-zed-theme) | 3 | Alabaster Dark theme for Zed (ported from https://github.com/tonsky/sublime-scheme-alabaster) |
+| 193 | [Aquarium Theme](https://github.com/biaqat/aquarium-theme-zed) | 3 | A colorful, dark, cozy Zed port of the Aquarium theme. |
+| 194 | [Ariake](https://github.com/artivilla/zed-ariake-theme) | 3 | Zed IDE Ariake themes inspired by Japanese traditional colors and ancient poetry |
+| 195 | [Atom One Theme](https://github.com/Stelath/zed-atom-one-theme) | 3 | A port of the old Atom text editor's theme to Zed |
+| 196 | [Aylin Theme](https://github.com/biaqat/aylin-theme-zed) | 3 | A port of a port of Aylin: a modern and minimal dark theme with bright colors for Zed |
+| 197 | [Bamboo](https://github.com/LoamStudios/zed-bamboo-theme) | 3 | A port of the Bamboo theme to Zed |
+| 198 | [CodeSandbox Theme](https://github.com/MartinRybergLaude/zed-theme-codesandbox) | 3 | An unofficial CodeSandbox theme for Zed |
+| 199 | [Cursor Theme](https://github.com/takk8is/cursor-theme-for-zed) | 3 | 📺 A theme that recreates the Cursor IDE experience within Zed, bringing familiar styling and interface elements fr... |
+| 200 | [Dev Magic](https://github.com/susanta96/dev-magic) | 3 | A magical dark theme for Zed Code Editor |
+| 201 | [Eiffel Theme](https://github.com/demiurg/zed-theme-eiffel) | 3 | A port of the Eiffel Textmate theme. |
+| 202 | [Ember Theme](https://github.com/biaqat/ember-theme-zed) | 3 | Ember Colorscheme port for Zed |
+| 203 | [Focus Theme](https://github.com/jigyansunanda/focus) | 3 | Focus is a collection of themes for Zed code editor to help you focus only on code. |
 | 204 | [Github Classic](https://github.com/meocoder31099/Github-Classic-Theme-Zed) | 3 | The classic GitHub Light and GitHub Dark themes for Zed |
 | 205 | [GitHub Copilot Theme](https://github.com/ssaunderss/zed-gh-copilot-theme) | 3 | GitHub Copilot Theme for Zed  |
 | 206 | [Jetbrains Darcula theme by bronya0](https://github.com/Bronya0/Jetbrains-Darcula-Zed-Theme) | 3 | Jetbrains-Darcula-Zed-Theme |
@@ -714,22 +714,22 @@ Programming language support — syntax highlighting, tree-sitter grammars, and 
 | # | Extension | Stars | Description |
 |--:|-----------|------:|-------------|
 | 1 | [Clice](https://github.com/clice-io/clice) | 1.2k | A next-generation C++ language server for modern C++, focused on high performance and deep code intelligence |
-| 2 | [Lisette](https://github.com/ivov/lisette) | 868 | A little language inspired by Rust that compiles to Go |
+| 2 | [Lisette](https://github.com/ivov/lisette) | 874 | A little language inspired by Rust that compiles to Go |
 | 3 | [Biome](https://github.com/biomejs/biome-zed) | 452 | Biome extension for Zed |
 | 4 | [Discord Presence](https://github.com/xhyrom/zed-discord-presence) | 398 | extension for zed that adds support for discord rich presence using lsp |
-| 5 | [Oxc](https://github.com/oxc-project/oxc-zed) | 224 | Oxc extension for Zed |
-| 6 | [Java](https://github.com/zed-extensions/java) | 177 | Extension for Zed to support Java |
+| 5 | [Oxc](https://github.com/oxc-project/oxc-zed) | 226 | Oxc extension for Zed |
+| 6 | [Java](https://github.com/zed-extensions/java) | 178 | Extension for Zed to support Java |
 | 7 | [Vue](https://github.com/zed-extensions/vue) | 177 | Vue support |
 | 8 | [Css Modules Kit](https://github.com/mizdra/css-modules-kit) | 176 | A toolkit for making CSS Modules useful. |
 | 9 | [wakatime](https://github.com/wakatime/zed-wakatime) | 175 | Zed plugin for automatic time tracking and metrics generated from your programming activity. |
-| 10 | [GDScript](https://github.com/GDQuest/zed-gdscript) | 151 | Zed support for the Godot game engine and the GDScript language |
+| 10 | [GDScript](https://github.com/GDQuest/zed-gdscript) | 152 | Zed support for the Godot game engine and the GDScript language |
 | 11 | [Typst](https://github.com/WeetHet/typst.zed) | 150 | Typst extension for zed |
-| 12 | [Angular](https://github.com/nathansbradshaw/zed-angular) | 138 | Angular Language support |
+| 12 | [Angular](https://github.com/nathansbradshaw/zed-angular) | 139 | Angular Language support |
 | 13 | [Comments Highlighter](https://github.com/thedadams/zed-comment) | 135 | A comment extension for the Zed editor |
 | 14 | [Swift](https://github.com/samuser107/zed-swift-extension) | 132 | Extension for Zed to support Swift |
-| 15 | [Ruby](https://github.com/zed-extensions/ruby) | 124 | The Ruby language support for Zed editor |
-| 16 | [C#](https://github.com/zed-extensions/csharp) | 123 | C# support |
-| 17 | [LaTeX](https://github.com/rzukic/zed-latex) | 123 | LaTeX language server and syntax highlighting for Zed. See wiki on GitHub for help. |
+| 15 | [LaTeX](https://github.com/rzukic/zed-latex) | 124 | LaTeX language server and syntax highlighting for Zed. See wiki on GitHub for help. |
+| 16 | [Ruby](https://github.com/zed-extensions/ruby) | 124 | The Ruby language support for Zed editor |
+| 17 | [C#](https://github.com/zed-extensions/csharp) | 123 | C# support |
 | 18 | [Git Firefly](https://github.com/d1y/git_firefly) | 110 | Provides Git Syntax Highlighting |
 | 19 | [Svelte](https://github.com/zed-extensions/svelte) | 110 | Svelte support |
 | 20 | [Julia](https://github.com/JuliaEditorSupport/zed-julia) | 108 | Julia support for Zed. |
@@ -737,7 +737,7 @@ Programming language support — syntax highlighting, tree-sitter grammars, and 
 | 22 | [Nix](https://github.com/hasit/zed-nix) | 103 | Nix language support in Zed |
 | 23 | [Scala](https://github.com/scalameta/metals-zed) | 101 | Zed plugin for Metals |
 | 24 | [harper](https://github.com/zed-extensions/harper) | 85 | Harper LS extension for the Zed editor |
-| 25 | [Dart](https://github.com/zed-extensions/dart) | 81 | Dart support |
+| 25 | [Dart](https://github.com/zed-extensions/dart) | 82 | Dart support |
 | 26 | [Kotlin](https://github.com/zed-extensions/zed-kotlin) | 81 | Kotlin support |
 | 27 | [PHP](https://github.com/zed-extensions/php) | 72 | PHP Zed Extension |
 | 28 | [Zig](https://github.com/zed-extensions/zig) | 71 | Zig support |
@@ -752,13 +752,13 @@ Programming language support — syntax highlighting, tree-sitter grammars, and 
 | 37 | [Rainbow CSV](https://github.com/weartist/zed-rainbow-csv) | 54 | 🌈Rainbow CSV - zed extension: Highlight CSV with different rainbow colors to make them more readable |
 | 38 | [Justfile](https://github.com/jackTabsCode/zed-just) | 51 | Zed extension for Justfiles |
 | 39 | [Luau](https://github.com/4teapo/zed-luau) | 51 | A Zed extension adding Luau support. |
-| 40 | [Pyrefly](https://github.com/zed-extensions/pyrefly) | 49 | Support for the Pyrefly Python LSP in Zed |
-| 41 | [Astro](https://github.com/zed-extensions/astro) | 47 | Astro support |
-| 42 | [NeoCMake](https://github.com/k0tran/zed_neocmake) | 47 | CMake grammar and neocmakelsp for Zed editor |
+| 40 | [Pyrefly](https://github.com/zed-extensions/pyrefly) | 50 | Support for the Pyrefly Python LSP in Zed |
+| 41 | [NeoCMake](https://github.com/k0tran/zed_neocmake) | 48 | CMake grammar and neocmakelsp for Zed editor |
+| 42 | [Astro](https://github.com/zed-extensions/astro) | 47 | Astro support |
 | 43 | [R](https://github.com/ocsmit/zed-r) | 46 | R language support for Zed editor |
 | 44 | [Templ](https://github.com/makifdb/zed-templ) | 46 | Extension for Zed to support Templ |
-| 45 | [Odin](https://github.com/zed-extensions/odin) | 45 | Odin Language support for Zed |
-| 46 | [env](https://github.com/zarifpour/zed-env) | 44 | 🔐 env support for Zed. |
+| 45 | [env](https://github.com/zarifpour/zed-env) | 45 | 🔐 env support for Zed. |
+| 46 | [Odin](https://github.com/zed-extensions/odin) | 45 | Odin Language support for Zed |
 | 47 | [F#](https://github.com/nathanjcollins/zed-fsharp) | 43 | F# support for Zed |
 | 48 | [Nim](https://github.com/foxoman/zed-nim) | 43 | Nim support for Zed Editor |
 | 49 | [Deputy](https://github.com/filiptibell/deputy) | 42 | A lightweight language server for your dependencies |
@@ -777,7 +777,7 @@ Programming language support — syntax highlighting, tree-sitter grammars, and 
 | 62 | [Smalisp](https://github.com/AbhiTheModder/smalisp) | 35 |  A very simple language server for smali with definition support & auto-completion. |
 | 63 | [V (Vlang)](https://github.com/lv37/zed-v) | 35 | V (Vlang) support for the Zed editor. |
 | 64 | [OCaml](https://github.com/zed-extensions/ocaml) | 34 | OCaml support |
-| 65 | [Lean 4](https://github.com/blackbird314/zed-lean4) | 32 | Lean 4 support. |
+| 65 | [Lean 4](https://github.com/blackbird314/zed-lean4) | 33 | Lean 4 support. |
 | 66 | [Assembly Language Server](https://github.com/DevBlocky/zed-asm) | 31 | Assembly Syntax Support for Zed |
 | 67 | [SCSS & SASS](https://github.com/bajrangCoder/zed-scss) | 31 | SCSS and SASS support for Zed |
 | 68 | [http](https://github.com/tie304/zed-http) | 30 | Http syntax for the zed editor |
@@ -786,11 +786,11 @@ Programming language support — syntax highlighting, tree-sitter grammars, and 
 | 71 | [Starlark](https://github.com/zaucy/zed-starlark) | 27 | Zed Starlark Extension |
 | 72 | [UnoCSS](https://github.com/bajrangCoder/zed-unocss) | 27 | UnoCSS extension for Zed |
 | 73 | [Emmet](https://github.com/zed-extensions/emmet) | 26 | Emmet support |
-| 74 | [XML](https://github.com/sweetppro/zed-xml) | 26 | XML syntax highlighting for Zed |
-| 75 | [Gotmpl](https://github.com/hjr265/zed-gotmpl) | 25 | Go template (gotmpl, gohtml) support for Zed |
-| 76 | [GraphQL](https://github.com/11bit/zed-extension-graphql) | 25 | GraphQL support for Zed editor |
-| 77 | [Liquid](https://github.com/TheBeyondGroup/zed-shopify-liquid) | 25 | A Zed extension to add syntax highlighting and the Shopify LSP server for Liquid |
-| 78 | [Nu](https://github.com/zed-extensions/nu) | 25 | Zed support for the Nu language (https://www.nushell.sh) |
+| 74 | [Nu](https://github.com/zed-extensions/nu) | 26 | Zed support for the Nu language (https://www.nushell.sh) |
+| 75 | [XML](https://github.com/sweetppro/zed-xml) | 26 | XML syntax highlighting for Zed |
+| 76 | [Gotmpl](https://github.com/hjr265/zed-gotmpl) | 25 | Go template (gotmpl, gohtml) support for Zed |
+| 77 | [GraphQL](https://github.com/11bit/zed-extension-graphql) | 25 | GraphQL support for Zed editor |
+| 78 | [Liquid](https://github.com/TheBeyondGroup/zed-shopify-liquid) | 25 | A Zed extension to add syntax highlighting and the Shopify LSP server for Liquid |
 | 79 | [Helm](https://github.com/cabrinha/helm.zed) | 24 | Zed extension for helm template syntax |
 | 80 | [ReScript](https://github.com/rescript-lang/rescript-zed) | 23 | ReScript support for Zed editor |
 | 81 | [Verilog](https://github.com/someone13574/zed-verilog-extension) | 23 | Verilog/SystemVerilog Extension for Zed |
@@ -802,17 +802,17 @@ Programming language support — syntax highlighting, tree-sitter grammars, and 
 | 87 | [Fish](https://github.com/hasit/zed-fish) | 20 | Fish language support in Zed |
 | 88 | [Pest](https://github.com/pest-parser/zed-pest) | 20 | Pest support for Zed |
 | 89 | [Stimulus LSP](https://github.com/vitallium/zed-stimulus) | 20 | Stimulus LSP support for Zed |
-| 90 | [TOML](https://github.com/zed-extensions/toml) | 20 | TOML support |
-| 91 | [Haxe](https://github.com/Frixuu/Zed-Haxe) | 19 | LSP support & syntax highlighting for Haxe. |
-| 92 | [QML](https://github.com/lkroll/zed-qml) | 19 | QML language support for Zed |
-| 93 | [Terraform](https://github.com/zed-extensions/terraform) | 19 | Terraform support |
-| 94 | [Beancount](https://github.com/zed-extensions/beancount) | 18 | Zed support for the Beancount language (https://beancount.github.io) |
-| 95 | [C3](https://github.com/AineeJames/c3-zed) | 18 | A Zed extension for the C3 programming language with LSP and TS. |
-| 96 | [CSV](https://github.com/huacnlee/zed-csv) | 18 | CSV support for Zed |
-| 97 | [Docker Compose](https://github.com/eth0net/zed-docker-compose) | 18 | Docker Compose file support for Zed |
-| 98 | [Markdownlint](https://github.com/vitallium/zed-markdownlint) | 18 | LSP support for `markdownlint` |
-| 99 | [Prisma](https://github.com/zed-extensions/prisma) | 18 | Prisma support |
-| 100 | [AsciiDoc](https://github.com/andreicek/zed-asciidoc) | 17 | Zed support for AsciiDoc syntax |
+| 90 | [Terraform](https://github.com/zed-extensions/terraform) | 20 | Terraform support |
+| 91 | [TOML](https://github.com/zed-extensions/toml) | 20 | TOML support |
+| 92 | [Haxe](https://github.com/Frixuu/Zed-Haxe) | 19 | LSP support & syntax highlighting for Haxe. |
+| 93 | [QML](https://github.com/lkroll/zed-qml) | 19 | QML language support for Zed |
+| 94 | [AsciiDoc](https://github.com/andreicek/zed-asciidoc) | 18 | Zed support for AsciiDoc syntax |
+| 95 | [Beancount](https://github.com/zed-extensions/beancount) | 18 | Zed support for the Beancount language (https://beancount.github.io) |
+| 96 | [C3](https://github.com/AineeJames/c3-zed) | 18 | A Zed extension for the C3 programming language with LSP and TS. |
+| 97 | [CSV](https://github.com/huacnlee/zed-csv) | 18 | CSV support for Zed |
+| 98 | [Docker Compose](https://github.com/eth0net/zed-docker-compose) | 18 | Docker Compose file support for Zed |
+| 99 | [Markdownlint](https://github.com/vitallium/zed-markdownlint) | 18 | LSP support for `markdownlint` |
+| 100 | [Prisma](https://github.com/zed-extensions/prisma) | 18 | Prisma support |
 | 101 | [ltex](https://github.com/vitallium/zed-ltex) | 17 | LTeX+ Language Server support for Zed |
 | 102 | [Tera](https://github.com/uncenter/zed-tera) | 17 | ⛩️ Zed extension for the Tera templating language. |
 | 103 | [Clojure](https://github.com/zed-extensions/clojure) | 16 | Clojure support |
@@ -826,37 +826,37 @@ Programming language support — syntax highlighting, tree-sitter grammars, and 
 | 111 | [Vala](https://github.com/FyraLabs/zed-vala) | 16 | Vala support for Zed. |
 | 112 | [Groovy](https://github.com/valentinegb/zed-groovy) | 15 | Zed Groovy support. |
 | 113 | [Haskell](https://github.com/zed-extensions/haskell) | 15 | Haskell support |
-| 114 | [Perl](https://github.com/tree-sitter-perl/zed-perl) | 15 | A perl extension for zed |
-| 115 | [Twig](https://github.com/YussufSassi/zed-twig) | 15 | Syntax highlighting and Intellisense for Twig in Zed |
-| 116 | [Vale Language Server](https://github.com/koozz/zed-vale) | 15 | Zed extension using the Vale language server. |
-| 117 | [Cucumber/Gherkin support](https://github.com/thlcodes/zed-extension-cucumber) | 14 | WIP Zed extension to add support for Cucumber/Gherkin. |
-| 118 | [Jsonnet](https://github.com/narqo/zed-jsonnet) | 14 | Jsonnet language support for Zed |
-| 119 | [Package.swift LSP](https://github.com/kattouf/package-swift-lsp-zed) | 14 | Zed extension for Package.swift LSP |
+| 114 | [Package.swift LSP](https://github.com/kattouf/package-swift-lsp-zed) | 15 | Zed extension for Package.swift LSP |
+| 115 | [Perl](https://github.com/tree-sitter-perl/zed-perl) | 15 | A perl extension for zed |
+| 116 | [Twig](https://github.com/YussufSassi/zed-twig) | 15 | Syntax highlighting and Intellisense for Twig in Zed |
+| 117 | [Vale Language Server](https://github.com/koozz/zed-vale) | 15 | Zed extension using the Vale language server. |
+| 118 | [Cucumber/Gherkin support](https://github.com/thlcodes/zed-extension-cucumber) | 14 | WIP Zed extension to add support for Cucumber/Gherkin. |
+| 119 | [Jsonnet](https://github.com/narqo/zed-jsonnet) | 14 | Jsonnet language support for Zed |
 | 120 | [PlantUML](https://github.com/gabeidx/zed-plantuml) | 14 | PlantUML support for Zed |
 | 121 | [Sorbet](https://github.com/notchairmk/zed-sorbet) | 14 | Sorbet extension for Zed |
-| 122 | [Jai](https://github.com/seg4lt/zed-jai) | 13 | Jai language support. For LSP support see repository docs. |
-| 123 | [Marksman](https://github.com/vitallium/zed-marksman) | 13 | Marksman support for Zed |
-| 124 | [MDX](https://github.com/srazzak/zed-mdx) | 13 | Support for MDX Zed Extension |
-| 125 | [Pascal](https://github.com/ChemisTechlabs/zed-pascal) | 13 | A Pascal language extension for Zed Editor |
-| 126 | [PHPCS](https://github.com/GeneaLabs/zed-phpcs-lsp) | 13 | PHPCS linter for Zed |
-| 127 | [Roc](https://github.com/h2000/zed-roc) | 13 | Roc language support for Zed |
-| 128 | [SurrealDB SurrealQL Language Extension](https://github.com/siteforge-io/surql-zed) | 13 | Zed syntax highlighting for SurrealQL |
-| 129 | [VHDL](https://github.com/rapgenic/zed-vhdl) | 13 | VHDL Language support for Zed editor |
-| 130 | [Wgsl](https://github.com/luan/zed-wgsl) | 13 | Wgsl language support for Zed |
-| 131 | [XMake](https://github.com/xmake-io/xmake-zed) | 13 | A XMake integration in Zed Editor |
+| 122 | [XMake](https://github.com/xmake-io/xmake-zed) | 14 | A XMake integration in Zed Editor |
+| 123 | [Jai](https://github.com/seg4lt/zed-jai) | 13 | Jai language support. For LSP support see repository docs. |
+| 124 | [Marksman](https://github.com/vitallium/zed-marksman) | 13 | Marksman support for Zed |
+| 125 | [MDX](https://github.com/srazzak/zed-mdx) | 13 | Support for MDX Zed Extension |
+| 126 | [Pascal](https://github.com/ChemisTechlabs/zed-pascal) | 13 | A Pascal language extension for Zed Editor |
+| 127 | [PHPCS](https://github.com/GeneaLabs/zed-phpcs-lsp) | 13 | PHPCS linter for Zed |
+| 128 | [Roc](https://github.com/h2000/zed-roc) | 13 | Roc language support for Zed |
+| 129 | [SurrealDB SurrealQL Language Extension](https://github.com/siteforge-io/surql-zed) | 13 | Zed syntax highlighting for SurrealQL |
+| 130 | [VHDL](https://github.com/rapgenic/zed-vhdl) | 13 | VHDL Language support for Zed editor |
+| 131 | [Wgsl](https://github.com/luan/zed-wgsl) | 13 | Wgsl language support for Zed |
 | 132 | [Leptos RSTML](https://github.com/zed-extensions/leptos) | 12 | Support for Leptos RSTML in Zed |
 | 133 | [Odoo](https://github.com/odoo/odoo-zed) | 12 | This extension integrates the Odoo Language Server, that will help you in the development of your Odoo projects. |
 | 134 | [Quarto](https://github.com/prefrontal-systems/zed-quarto-plugin) | 12 | Quarto grammar support for the Zed editor - syntax highlighting, code block injections, and snippets for .qmd files |
 | 135 | [Superhtml](https://github.com/WeetHet/superhtml-zed) | 12 | SuperHTML support for zed |
 | 136 | [Caddyfile](https://github.com/nusnewob/caddyfile-zed) | 11 | Caddyfile Support for Zed |
 | 137 | [Graphviz](https://github.com/gabeidx/zed-graphviz) | 11 | Graphviz support for Zed |
-| 138 | [Noir](https://github.com/shuklaayush/zed-noir) | 11 | Noir support for Zed |
-| 139 | [Postgres Language Server](https://github.com/LoamStudios/zed-postgres-language-server) | 11 | A Postgres Language Server extension for Zed |
-| 140 | [Slang](https://github.com/cohaereo/zed-slang) | 11 | Slang shading language support |
-| 141 | [Cairo](https://github.com/trbutler4/zed-cairo) | 10 | Cairo language support for Zed |
-| 142 | [Defold](https://github.com/whiterabbit1983/zed-defold) | 10 | Defold game engine support with bundled API docs, Lua language server, and code snippets |
-| 143 | [ini](https://github.com/bajrangCoder/zed-ini) | 10 | INI extension for Zed |
-| 144 | [Move](https://github.com/Tzal3x/move-zed-extension) | 10 | Extension to add Move-lang support for Zed. |
+| 138 | [Move](https://github.com/Tzal3x/move-zed-extension) | 11 | Extension to add Move-lang support for Zed. |
+| 139 | [Noir](https://github.com/shuklaayush/zed-noir) | 11 | Noir support for Zed |
+| 140 | [Postgres Language Server](https://github.com/LoamStudios/zed-postgres-language-server) | 11 | A Postgres Language Server extension for Zed |
+| 141 | [Slang](https://github.com/cohaereo/zed-slang) | 11 | Slang shading language support |
+| 142 | [Cairo](https://github.com/trbutler4/zed-cairo) | 10 | Cairo language support for Zed |
+| 143 | [Defold](https://github.com/whiterabbit1983/zed-defold) | 10 | Defold game engine support with bundled API docs, Lua language server, and code snippets |
+| 144 | [ini](https://github.com/bajrangCoder/zed-ini) | 10 | INI extension for Zed |
 | 145 | [Relay](https://github.com/XiNiHa/relay-zed) | 10 | Relay support for Zed |
 | 146 | [Ada](https://github.com/wisn/zed-ada-language) | 9 | Ada language support for Zed |
 | 147 | [Edge](https://github.com/Hexacker/zed-edge) | 9 | Edge template language support with syntax highlighting and language server integration |
@@ -875,14 +875,14 @@ Programming language support — syntax highlighting, tree-sitter grammars, and 
 | 160 | [GROQ](https://github.com/juice49/zed-groq) | 7 | GROQ support for Zed. |
 | 161 | [unison](https://github.com/zetashift/unison-zed) | 7 | Unison support for Zed. |
 | 162 | [arkts](https://github.com/liuyanghejerry/zed-arkts) | 6 | Language support for ArkTS (Harmony ETS) files in Zed |
-| 163 | [CUE](https://github.com/jkasky/zed-cue) | 6 | Zed Language Extension for CUE |
-| 164 | [Editorconfig](https://github.com/notpeter/editorconfig-zed) | 6 | Editorconfig support for Zed |
-| 165 | [EmmyLua](https://github.com/EmmyLuaLs/Zed-EmmyLua) | 6 | Advanced Lua language support with EmmyLua annotations, intelligent completions, powerful diagnostics and Debug Adapt... |
-| 166 | [HTML-Jinja Template Support](https://github.com/JaagupAverin/html-jinja) | 6 | A hack Zed extension for HTML-Jinja support. |
-| 167 | [Markdown Oxide](https://github.com/Feel-ix-343/markdown-oxide-zed) | 6 | Zed extension for https://github.com/Feel-ix-343/markdown-oxide |
-| 168 | [Slim](https://github.com/calmyournerves/zed-slim) | 6 | Slim template support for Zed |
-| 169 | [Agda](https://github.com/haohanyang/agda-zed) | 5 | Agda language support for Zed editor |
-| 170 | [ast-grep LSP](https://github.com/mathieulj/ast-grep-zed) | 5 | ast-grep Zed extension |
+| 163 | [ast-grep LSP](https://github.com/mathieulj/ast-grep-zed) | 6 | ast-grep Zed extension |
+| 164 | [CUE](https://github.com/jkasky/zed-cue) | 6 | Zed Language Extension for CUE |
+| 165 | [Editorconfig](https://github.com/notpeter/editorconfig-zed) | 6 | Editorconfig support for Zed |
+| 166 | [EmmyLua](https://github.com/EmmyLuaLs/Zed-EmmyLua) | 6 | Advanced Lua language support with EmmyLua annotations, intelligent completions, powerful diagnostics and Debug Adapt... |
+| 167 | [HTML-Jinja Template Support](https://github.com/JaagupAverin/html-jinja) | 6 | A hack Zed extension for HTML-Jinja support. |
+| 168 | [Markdown Oxide](https://github.com/Feel-ix-343/markdown-oxide-zed) | 6 | Zed extension for https://github.com/Feel-ix-343/markdown-oxide |
+| 169 | [Slim](https://github.com/calmyournerves/zed-slim) | 6 | Slim template support for Zed |
+| 170 | [Agda](https://github.com/haohanyang/agda-zed) | 5 | Agda language support for Zed editor |
 | 171 | [AutoHotkey](https://github.com/alfredomtx/tree-sitter-autohotkey) | 5 | Tree-sitter grammar, LSP and debugger for the AutoHotkey V1 scripting language, packaged as a Zed extension |
 | 172 | [Baml](https://github.com/BoundaryML/zed-baml) | 5 | BAML Extension for Zed |
 | 173 | [Bicep](https://github.com/oWretch/zed-extension-bicep) | 5 | Bicep extension for Zed |
@@ -906,38 +906,38 @@ Programming language support — syntax highlighting, tree-sitter grammars, and 
 | 191 | [Sqruff](https://github.com/gvozdvmozgu/sqruff-zed) | 5 | A sqruff extension for zed  |
 | 192 | [Todotxt](https://github.com/pursvir/zed-todotxt) | 5 | Todo.txt support for Zed |
 | 193 | [Tree Sitter query](https://github.com/vitallium/zed-tree-sitter-query) | 5 | Support for tree-sitter query files (*.scm) |
-| 194 | [Aiken](https://github.com/aiken-lang/zed-aiken) | 4 | Aiken support for Zed |
-| 195 | [Bsl (1C)](https://github.com/dlyubanevich/zed-bsl-extension) | 4 | (1C) Bsl extension for Zed editor |
-| 196 | [Cadence Syntax Highlighting](https://github.com/janezpodhostnik/cadence.zed) | 4 | Cadence language syntax highlighting support for the Zed text editor |
-| 197 | [CFML](https://github.com/cfmleditor/zed-cfml) | 4 | CFML support. |
-| 198 | [Coi](https://github.com/jturner/zed-coi) | 4 | Language support for Coi in the Zed editor. |
-| 199 | [Cython](https://github.com/lgeiger/zed-cython) | 4 | :snake: Cython Language support for Zed |
-| 200 | [EDI](https://github.com/hugginsio/zed-edi) | 4 | An EDI X12 plugin for Zed leveraging tree-sitter. |
-| 201 | [Elisp](https://github.com/JosephTLyons/zed-elisp) | 4 | Elisp language support for Zed |
-| 202 | [Erlang](https://github.com/zed-extensions/erlang) | 4 | Erlang support |
-| 203 | [FlatBuffers](https://github.com/smpanaro/zed-flatbuffers) | 4 | zed.dev extension with language support for FlatBuffers |
-| 204 | [Fountain](https://github.com/LaPingvino/zed-fountain) | 4 | A Zed extension adding Fountain support |
-| 205 | [Gren](https://github.com/johanalkstal/gren-lang-extension) | 4 | Language extension for the Gren language and the Zed editor |
-| 206 | [Hurl](https://github.com/tommy/zed-hurl) | 4 | A zed extension for syntax highlighting of Hurl files. |
-| 207 | [Ink](https://github.com/yuna0x0/zed-ink) | 4 | Ink language support for Zed |
-| 208 | [JSON5](https://github.com/ChunzhengLab/json5-zed-extension) | 4 | JSON5 syntax highlighting support to Zed using Joakker's Tree-sitter. |
-| 209 | [KCL](https://github.com/pisarenko91/kcl-zed-extension) | 4 | KCL lang(https://www.kcl-lang.io) Zed editor extension |
-| 210 | [Kulala HTTP](https://github.com/HusuSama/zed-kulala-http) | 4 | 😻Zed integration for Kulala, including syntax highlighting, code completion, and request sending. |
-| 211 | [InterSystems ObjectScript](https://github.com/intersystems/zed-objectscript) | 4 | An ObjectScript extension for Zed |
-| 212 | [Pug](https://github.com/Baw-Appie/zed-pug) | 4 | Pug syntax support for Zed |
-| 213 | [PureScript](https://github.com/zed-extensions/purescript) | 4 | PureScript support |
-| 214 | [Racket](https://github.com/zed-extensions/racket) | 4 | Racket support |
-| 215 | [RON](https://github.com/onbjerg/zed-ron) | 4 | A Zed extension for RON syntax highlighting |
-| 216 | [SageMath](https://github.com/rot256/zed-sagemath) | 4 | SageMath Support for Zed |
-| 217 | [Scheme](https://github.com/zed-extensions/scheme) | 4 | Zed Scheme Extension |
-| 218 | [Sieve](https://github.com/aRustyDev/zed-sieve) | 4 | Zed LSP Extension for Sieve |
-| 219 | [Smithy](https://github.com/joshrutkowski/zed-smithy) | 4 | Smithy language support for Zed |
-| 220 | [Snakemake](https://github.com/lvignoli/zed-snakemake) | 4 | A Zed extension for snakemake |
-| 221 | [TS Macro](https://github.com/XiNiHa/ts-macro-zed) | 4 | TS Macro support for Zed |
-| 222 | [Typespec](https://github.com/rhodee/zed-typespec) | 4 | Typespec support |
-| 223 | [Umka](https://github.com/michabay05/zed-umka) | 4 | Zed Extension for umka |
-| 224 | [WebAssembly Text Format](https://github.com/g-plane/zed-wasm) | 4 | Zed extension of WebAssembly Language Tools. |
-| 225 | [Ziggy](https://github.com/lvignoli/zed-ziggy) | 4 | Ziggy support for Zed |
+| 194 | [Ziggy](https://github.com/lvignoli/zed-ziggy) | 5 | Ziggy support for Zed |
+| 195 | [Aiken](https://github.com/aiken-lang/zed-aiken) | 4 | Aiken support for Zed |
+| 196 | [Bsl (1C)](https://github.com/dlyubanevich/zed-bsl-extension) | 4 | (1C) Bsl extension for Zed editor |
+| 197 | [Cadence Syntax Highlighting](https://github.com/janezpodhostnik/cadence.zed) | 4 | Cadence language syntax highlighting support for the Zed text editor |
+| 198 | [CFML](https://github.com/cfmleditor/zed-cfml) | 4 | CFML support. |
+| 199 | [Coi](https://github.com/jturner/zed-coi) | 4 | Language support for Coi in the Zed editor. |
+| 200 | [Cython](https://github.com/lgeiger/zed-cython) | 4 | :snake: Cython Language support for Zed |
+| 201 | [EDI](https://github.com/hugginsio/zed-edi) | 4 | An EDI X12 plugin for Zed leveraging tree-sitter. |
+| 202 | [Elisp](https://github.com/JosephTLyons/zed-elisp) | 4 | Elisp language support for Zed |
+| 203 | [Erlang](https://github.com/zed-extensions/erlang) | 4 | Erlang support |
+| 204 | [FlatBuffers](https://github.com/smpanaro/zed-flatbuffers) | 4 | zed.dev extension with language support for FlatBuffers |
+| 205 | [Fountain](https://github.com/LaPingvino/zed-fountain) | 4 | A Zed extension adding Fountain support |
+| 206 | [Gren](https://github.com/johanalkstal/gren-lang-extension) | 4 | Language extension for the Gren language and the Zed editor |
+| 207 | [Hurl](https://github.com/tommy/zed-hurl) | 4 | A zed extension for syntax highlighting of Hurl files. |
+| 208 | [Ink](https://github.com/yuna0x0/zed-ink) | 4 | Ink language support for Zed |
+| 209 | [JSON5](https://github.com/ChunzhengLab/json5-zed-extension) | 4 | JSON5 syntax highlighting support to Zed using Joakker's Tree-sitter. |
+| 210 | [KCL](https://github.com/pisarenko91/kcl-zed-extension) | 4 | KCL lang(https://www.kcl-lang.io) Zed editor extension |
+| 211 | [Kulala HTTP](https://github.com/HusuSama/zed-kulala-http) | 4 | 😻Zed integration for Kulala, including syntax highlighting, code completion, and request sending. |
+| 212 | [InterSystems ObjectScript](https://github.com/intersystems/zed-objectscript) | 4 | An ObjectScript extension for Zed |
+| 213 | [Pug](https://github.com/Baw-Appie/zed-pug) | 4 | Pug syntax support for Zed |
+| 214 | [PureScript](https://github.com/zed-extensions/purescript) | 4 | PureScript support |
+| 215 | [Racket](https://github.com/zed-extensions/racket) | 4 | Racket support |
+| 216 | [RON](https://github.com/onbjerg/zed-ron) | 4 | A Zed extension for RON syntax highlighting |
+| 217 | [SageMath](https://github.com/rot256/zed-sagemath) | 4 | SageMath Support for Zed |
+| 218 | [Scheme](https://github.com/zed-extensions/scheme) | 4 | Zed Scheme Extension |
+| 219 | [Sieve](https://github.com/aRustyDev/zed-sieve) | 4 | Zed LSP Extension for Sieve |
+| 220 | [Smithy](https://github.com/joshrutkowski/zed-smithy) | 4 | Smithy language support for Zed |
+| 221 | [Snakemake](https://github.com/lvignoli/zed-snakemake) | 4 | A Zed extension for snakemake |
+| 222 | [TS Macro](https://github.com/XiNiHa/ts-macro-zed) | 4 | TS Macro support for Zed |
+| 223 | [Typespec](https://github.com/rhodee/zed-typespec) | 4 | Typespec support |
+| 224 | [Umka](https://github.com/michabay05/zed-umka) | 4 | Zed Extension for umka |
+| 225 | [WebAssembly Text Format](https://github.com/g-plane/zed-wasm) | 4 | Zed extension of WebAssembly Language Tools. |
 | 226 | [Cap'n Proto](https://github.com/cmackenzie1/zed-capnp) | 3 | Cap'n Proto Syntax Highlighting for Zed.  |
 | 227 | [Dafny](https://github.com/WeetHet/dafny-zed) | 3 | Dafny extension for zed |
 | 228 | [Firebase Security Rules](https://github.com/ChemisTechlabs/zed-firebase-security-rules) | 3 | A Firebase Security Rules language syntax highlight extension for Zed Editor |
@@ -1139,10 +1139,10 @@ Developer tools — linters, formatters, LSP integrations, and productivity exte
 | # | Extension | Stars | Description |
 |--:|-----------|------:|-------------|
 | 1 | [Tombi](https://github.com/tombi-toml/tombi) | 875 | TOML Formatter / Linter / Language Server |
-| 2 | [Csskit Lsp](https://github.com/csskit/csskit) | 275 | Refreshing CSS |
-| 3 | [Agnix](https://github.com/avifenesh/agnix) | 208 | The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for ... |
+| 2 | [Csskit Lsp](https://github.com/csskit/csskit) | 276 | Refreshing CSS |
+| 3 | [Agnix](https://github.com/avifenesh/agnix) | 209 | The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for ... |
 | 4 | [Postgres Context Server](https://github.com/zed-extensions/postgres-context-server) | 196 | An extension providing a Model Context Server extension for PostgreSQL |
-| 5 | [tsgo](https://github.com/zed-extensions/tsgo) | 192 | Extension for Zed to support TypeScript Native |
+| 5 | [tsgo](https://github.com/zed-extensions/tsgo) | 193 | Extension for Zed to support TypeScript Native |
 | 6 | [Context7 MCP Server](https://github.com/akbxr/zed-mcp-server-context7) | 103 | Context7 MCP Server for Zed |
 | 7 | [LiveServer](https://github.com/frederik-uni/zed-live-server) | 92 | Launch a development local Server with live reload feature |
 | 8 | [GitHub MCP Server](https://github.com/LoamStudios/zed-mcp-server-github) | 85 | A GitHub MCP Server extension for Zed |
@@ -1152,7 +1152,7 @@ Developer tools — linters, formatters, LSP integrations, and productivity exte
 | 12 | [Python LSP](https://github.com/rgbkrk/python-lsp-zed-extension) | 55 | Python LSP Server Zed Extension |
 | 13 | [Sequential Thinking MCP Server](https://github.com/LoamStudios/zed-mcp-server-sequential-thinking) | 49 | A sequential thinking MCP server extension for Zed |
 | 14 | [Duper](https://github.com/EpicEric/duper) | 37 | The format that's super! |
-| 15 | [CargoTom](https://github.com/frederik-uni/zed-cargotom) | 33 | Cargo.toml LSP zed extension |
+| 15 | [CargoTom](https://github.com/frederik-uni/zed-cargotom) | 34 | Cargo.toml LSP zed extension |
 | 16 | [Framelink Figma MCP Server](https://github.com/LoamStudios/zed-mcp-server-figma) | 31 | A Framelink Figma MCP server extension for Zed |
 | 17 | [Container Use MCP Server](https://github.com/danilo-leal/zed-container-use-mcp) | 26 | Containerized environments for coding agents. |
 | 18 | [ByteRover MCP Server](https://github.com/campfirein/byterover-zed-extension) | 25 | ByteRover - Agentic Memory Management |
@@ -1167,10 +1167,10 @@ Developer tools — linters, formatters, LSP integrations, and productivity exte
 | 27 | [NextJS DevTools MCP](https://github.com/MrUprizing/zed-mcp-server-nextjs) | 16 | NextJS MCP Extension for Zed |
 | 28 | [Rumdl Markdown Linter](https://github.com/inflation/zed-rumdl) | 16 | Zed extension for rumdl |
 | 29 | [GitLab MCP Server](https://github.com/akbxr/gitlab-mcp-zed) | 13 | Gitlab MCP Server for Zed |
-| 30 | [Bookmark](https://github.com/A-23187/zed-bookmark) | 12 | zed bookmark extension |
-| 31 | [Code::Stats](https://github.com/maxdeviant/zed-code-stats) | 12 | A Code::Stats extension for Zed |
-| 32 | [Supabase MCP Server](https://github.com/maximoffua/zed-mcp-server-supabase) | 12 | A Supabase MCP server extension for Zed editor |
-| 33 | [NPM Package.json Update Checker](https://github.com/e-simpson/zed-npm-update-checker) | 12 | Zed Extension/LSP that shows package.json updates |
+| 30 | [NPM Package.json Update Checker](https://github.com/e-simpson/zed-npm-update-checker) | 13 | Zed Extension/LSP that shows package.json updates |
+| 31 | [Bookmark](https://github.com/A-23187/zed-bookmark) | 12 | zed bookmark extension |
+| 32 | [Code::Stats](https://github.com/maxdeviant/zed-code-stats) | 12 | A Code::Stats extension for Zed |
+| 33 | [Supabase MCP Server](https://github.com/maximoffua/zed-mcp-server-supabase) | 12 | A Supabase MCP server extension for Zed editor |
 | 34 | [Bun Docs MCP](https://github.com/kjanat/bun-docs-mcp-zed) | 11 | MCP server integration for searching Bun documentation directly in Zed editor |
 | 35 | [Chrome DevTools MCP](https://github.com/gohryt/chrome-devtools-mcp-zed) | 11 | Model Context Server for Chrome DevTools MCP |
 | 36 | [Svelte MCP Server](https://github.com/ghostdevv/zed-svelte-mcp) | 11 | Zed extension to automatically setup the official Svelte MCP server |
@@ -1183,11 +1183,11 @@ Developer tools — linters, formatters, LSP integrations, and productivity exte
 | 43 | [ThreadBridge MCP Server](https://github.com/dereklei12/zed-mcp-server-threadbridge) | 7 | Model Context Protocol Server for persistent AI memory with hybrid semantic search on Zed |
 | 44 | [TeXpresso](https://github.com/lnay/zed-texpresso) | 7 | Zed extension to use TeXpresso |
 | 45 | [AutoCorrect](https://github.com/huacnlee/zed-autocorrect) | 6 | AutoCorrect for Zed |
-| 46 | [Kagi MCP Server](https://github.com/jmylchreest/kagimcp-zed) | 6 | Kagi Search MCP (and Zed extension) |
-| 47 | [Grafana MCP Server](https://github.com/sd2k/zed-mcp-grafana) | 6 | Grafana MCP server extension for Zed |
-| 48 | [Resend MCP Server](https://github.com/danilo-leal/zed-resend-mcp-server) | 6 | A Zed extension for the Resend MCP. |
-| 49 | [Prisma Context Server](https://github.com/aqrln/prisma-mcp-zed) | 6 | Zed extension for Prisma MCP server |
-| 50 | [Cargo Appraiser](https://github.com/washanhanzi/zed-cargo-appraiser) | 5 | LSP for Cargo.toml. You need to enable zed's inlay_hints. |
+| 46 | [Cargo Appraiser](https://github.com/washanhanzi/zed-cargo-appraiser) | 6 | LSP for Cargo.toml. You need to enable zed's inlay_hints. |
+| 47 | [Kagi MCP Server](https://github.com/jmylchreest/kagimcp-zed) | 6 | Kagi Search MCP (and Zed extension) |
+| 48 | [Grafana MCP Server](https://github.com/sd2k/zed-mcp-grafana) | 6 | Grafana MCP server extension for Zed |
+| 49 | [Resend MCP Server](https://github.com/danilo-leal/zed-resend-mcp-server) | 6 | A Zed extension for the Resend MCP. |
+| 50 | [Prisma Context Server](https://github.com/aqrln/prisma-mcp-zed) | 6 | Zed extension for Prisma MCP server |
 | 51 | [Confluence Context Server](https://github.com/mouhamadalmounayar/confluence-context-server) | 5 | Confluence Context Server |
 | 52 | [Datadog MCP Server](https://github.com/robertohuertasm/zed-datadog-mcp) | 5 | Datadog MCP Server extension for Datadog |
 | 53 | [Libsql Context Server](https://github.com/nicholasq/libsql-context-server) | 5 | A Zed extension providing a Model Context Protocol Server for LibSQL |
@@ -1253,16 +1253,16 @@ Extensions that don't fit neatly into the categories above.
 |--:|-----------|------:|-------------|
 | 1 | [Mistral Vibe](https://github.com/mistralai/mistral-vibe) | 4.0k | Minimal CLI coding agent by Mistral |
 | 2 | [Veryl](https://github.com/veryl-lang/veryl) | 921 | Veryl: A Modern Hardware Description Language |
-| 3 | [Air](https://github.com/posit-dev/air) | 409 | R formatter and language server |
+| 3 | [Air](https://github.com/posit-dev/air) | 410 | R formatter and language server |
 | 4 | [Jarl](https://github.com/etiennebacher/jarl) | 123 | Just another R linter |
 | 5 | [Symposium](https://github.com/symposium-dev/symposium) | 114 | AI the Rust Way |
 | 6 | [Compline](https://github.com/jblais493/compline) | 105 | A color palette for Deep contemplation and work |
-| 7 | [Pytest Language Server](https://github.com/bellini666/pytest-language-server) | 96 | 🔥 Pytest Language Server |
+| 7 | [Pytest Language Server](https://github.com/bellini666/pytest-language-server) | 97 | 🔥 Pytest Language Server |
 | 8 | [Rovo Lsp](https://github.com/Arthurdw/rovo) | 75 | Axum open API docs made simple |
 | 9 | [One Dark Pro](https://github.com/MordFustang21/zed-one-dark-pro) | 52 | Zed One Dark Pro Port |
 | 10 | [Qqcode](https://github.com/qnguyen3/qqcode) | 51 | A lightweight CLI coding agent focused on speed, determinism, and developer control |
 | 11 | [Gem](https://github.com/mantou132/gem) | 45 | 💎 Lightweight WebApp development library using custom elements |
-| 12 | [React Typescript Snippets](https://github.com/vishnuroshan/zed-react-ts-snippets) | 34 | Speed up your Typescript/React workflow in Zed with ready-to-use snippets for components, hooks, and common patterns. |
+| 12 | [React Typescript Snippets](https://github.com/vishnuroshan/zed-react-ts-snippets) | 35 | Speed up your Typescript/React workflow in Zed with ready-to-use snippets for components, hooks, and common patterns. |
 | 13 | [probe-rs](https://github.com/probe-rs/zed-extension) | 32 | Zed debugger extension for probe-rs |
 | 14 | [Corust Agent](https://github.com/Corust-ai/corust-agent-release) | 27 | Co-building with a seasoned Rust partner. |
 | 15 | [Python Snippets](https://github.com/jctosta/python-zed-snippets) | 26 | A collection of Python snippets for the Zed IDE to improve your development speed and productivity. |
@@ -1316,16 +1316,16 @@ Extensions that don't fit neatly into the categories above.
 | 63 | [Apathy Theme](https://github.com/coopmoney/apathy-theme) | 2 | A dark, sophisticated color theme with purple/black backgrounds and vibrant neon-like syntax highlighting. |
 | 64 | [CodeBuddy Code](https://github.com/jasonwang82/codebuddy-code-zed) | 2 | CodeBuddy for Zed Marketplace |
 | 65 | [Evolved Theme](https://github.com/evoL/evolved-theme) | 2 |  |
-| 66 | [Kaimandres](https://github.com/MartelleV/kaimandres-zed) | 2 | The official Zed port for Kaimandres.nvim. |
-| 67 | [Monokai Vibrant Amped](https://github.com/Ceebox/zed-monokai-vibrant-amped) | 2 | A version of Monokai Vibrant Amped, but for Zed! |
-| 68 | [One Dark Flat](https://github.com/0PandaDEV/zed-one-dark-flat) | 2 | A port of VSCode One Dark Flat |
-| 69 | [Tokyo Maple Theme](https://github.com/Cateds/Tokyo-Maple-Theme) | 2 | A dark theme for VSCode and Zed, modified based on the Tokyo Night theme, combining Maple's color style with One Dark... |
-| 70 | [Vintergata](https://github.com/webhooked/vintergata-zed) | 2 |  |
-| 71 | [Angular TypeScript Snippets](https://github.com/hudson-newey/angular-snippets-for-zed) | 1 | (Unofficial) Angular Snippets for zed.dev (fork of johnpapa/vscode-angular-snippets) |
-| 72 | [Cyberpunk 2077](https://github.com/thomassimmer/cyberpunk-2077-zed-extension) | 1 | A Zed theme extension inspired by Cyberpunk 2077 (Arasaka, Biotechnica, Softsys, NCPD, Kang Tao, Militech, Delamain, ... |
-| 73 | [fiber Snippets](https://github.com/ayberkgezer/fiber-zed-snippets) | 1 | Fiber v2 snippets for Zed IDE. |
-| 74 | [Flask Snippets](https://github.com/ayberkgezer/flask-snippets) | 1 | Flask snippets extension Zed IDE |
-| 75 | [GDScript Snippets](https://github.com/loyal-disloyal/gdscript-zed-snippets) | 1 | A useful collection of Godot 4 snippets that speeds up development in the Zed editor. |
+| 66 | [GDScript Snippets](https://github.com/loyal-disloyal/gdscript-zed-snippets) | 2 | A useful collection of Godot 4 snippets that speeds up development in the Zed editor. |
+| 67 | [Kaimandres](https://github.com/MartelleV/kaimandres-zed) | 2 | The official Zed port for Kaimandres.nvim. |
+| 68 | [Monokai Vibrant Amped](https://github.com/Ceebox/zed-monokai-vibrant-amped) | 2 | A version of Monokai Vibrant Amped, but for Zed! |
+| 69 | [One Dark Flat](https://github.com/0PandaDEV/zed-one-dark-flat) | 2 | A port of VSCode One Dark Flat |
+| 70 | [Tokyo Maple Theme](https://github.com/Cateds/Tokyo-Maple-Theme) | 2 | A dark theme for VSCode and Zed, modified based on the Tokyo Night theme, combining Maple's color style with One Dark... |
+| 71 | [Vintergata](https://github.com/webhooked/vintergata-zed) | 2 |  |
+| 72 | [Angular TypeScript Snippets](https://github.com/hudson-newey/angular-snippets-for-zed) | 1 | (Unofficial) Angular Snippets for zed.dev (fork of johnpapa/vscode-angular-snippets) |
+| 73 | [Cyberpunk 2077](https://github.com/thomassimmer/cyberpunk-2077-zed-extension) | 1 | A Zed theme extension inspired by Cyberpunk 2077 (Arasaka, Biotechnica, Softsys, NCPD, Kang Tao, Militech, Delamain, ... |
+| 74 | [fiber Snippets](https://github.com/ayberkgezer/fiber-zed-snippets) | 1 | Fiber v2 snippets for Zed IDE. |
+| 75 | [Flask Snippets](https://github.com/ayberkgezer/flask-snippets) | 1 | Flask snippets extension Zed IDE |
 | 76 | [Herzha Theme](https://github.com/madhanmaaz/herzha-theme) | 1 | Herzha themes for your favorite apps. |
 | 77 | [Kokedera — Japanese Moss Temple Icons](https://github.com/7th-Layer/kokedera-icons-extension-zed) | 1 | 128 file & folder icons inspired by the moss-covered temple garden Saihō-ji (苔寺) in Kyoto. Flat, organic shapes ... |
 | 78 | [Kubernetes Snippets](https://github.com/zed-kubernetes/kubernetes-snippets) | 1 | Kubernetes YAML snippets with zero-config schema validation. |
@@ -1359,7 +1359,7 @@ Extensions that don't fit neatly into the categories above.
 
 This directory is automatically generated from the official [Zed extensions registry](https://github.com/zed-industries/extensions). A Go program scans every registered extension, fetches its GitHub metadata, classifies it by type, and renders this page — fully automated, no manual curation.
 
-**Data freshness:** Updated daily at ~06:00 UTC via GitHub Actions. Last update: **2026-04-25**.
+**Data freshness:** Updated daily at ~06:00 UTC via GitHub Actions. Last update: **2026-04-26**.
 
 **Scope & exclusion rules:**
 - Only *dedicated* Zed extensions are listed — repositories specifically built for Zed.
