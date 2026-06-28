@@ -8,7 +8,7 @@
       "repo_url": "https://github.com/daltonmenezes/aura-theme",
       "owner": "daltonmenezes",
       "repo": "aura-theme",
-      "stars": 3797,
+      "stars": 3798,
       "category": "Theme",
       "dedicated": true,
       "license": "MIT",
@@ -24,7 +24,7 @@
       "repo_url": "https://github.com/kepano/flexoki",
       "owner": "kepano",
       "repo": "flexoki",
-      "stars": 3523,
+      "stars": 3526,
       "category": "Theme",
       "dedicated": true,
       "license": "MIT",
@@ -46,7 +46,7 @@
       "license": "MIT",
       "maintained": true,
       "created_at": "2022-08-10T21:07:26Z",
-      "pushed_at": "2026-06-27T05:49:16Z"
+      "pushed_at": "2026-06-27T22:27:41Z"
     },
     {
       "id": "lisette",
@@ -56,13 +56,13 @@
       "repo_url": "https://github.com/ivov/lisette",
       "owner": "ivov",
       "repo": "lisette",
-      "stars": 1379,
+      "stars": 1389,
       "category": "Language",
       "dedicated": true,
       "license": "MIT",
       "maintained": true,
       "created_at": "2026-03-21T14:02:38Z",
-      "pushed_at": "2026-06-26T21:34:40Z"
+      "pushed_at": "2026-06-27T22:07:06Z"
     },
     {
       "id": "bugstalker-dap",
@@ -88,13 +88,13 @@
       "repo_url": "https://github.com/clice-io/clice",
       "owner": "clice-io",
       "repo": "clice",
-      "stars": 1250,
+      "stars": 1251,
       "category": "Language",
       "dedicated": true,
       "license": "Apache-2.0",
       "maintained": true,
       "created_at": "2024-07-25T04:42:24Z",
-      "pushed_at": "2026-06-25T13:33:42Z"
+      "pushed_at": "2026-06-28T04:46:58Z"
     },
     {
       "id": "tombi",
@@ -104,13 +104,13 @@
       "repo_url": "https://github.com/tombi-toml/tombi",
       "owner": "tombi-toml",
       "repo": "tombi",
-      "stars": 1000,
+      "stars": 1002,
       "category": "Tool",
       "dedicated": true,
       "license": "MIT",
       "maintained": true,
       "created_at": "2024-10-08T16:28:51Z",
-      "pushed_at": "2026-06-26T15:06:31Z"
+      "pushed_at": "2026-06-28T05:42:56Z"
     },
     {
       "id": "veryl",
@@ -126,7 +126,7 @@
       "license": "NOASSERTION",
       "maintained": true,
       "created_at": "2022-12-08T09:01:16Z",
-      "pushed_at": "2026-06-26T20:10:37Z"
+      "pushed_at": "2026-06-27T13:49:04Z"
     },
     {
       "id": "catppuccin",
@@ -152,7 +152,7 @@
       "repo_url": "https://github.com/LalitMaganti/syntaqlite",
       "owner": "LalitMaganti",
       "repo": "syntaqlite",
-      "stars": 789,
+      "stars": 790,
       "category": "Other",
       "dedicated": true,
       "license": "Apache-2.0",
@@ -168,7 +168,7 @@
       "repo_url": "https://github.com/biomejs/biome-zed",
       "owner": "biomejs",
       "repo": "biome-zed",
-      "stars": 482,
+      "stars": 483,
       "category": "Language",
       "dedicated": true,
       "license": "MIT",
@@ -184,7 +184,7 @@
       "repo_url": "https://github.com/posit-dev/air",
       "owner": "posit-dev",
       "repo": "air",
-      "stars": 436,
+      "stars": 437,
       "category": "Other",
       "dedicated": true,
       "license": "MIT",
@@ -216,7 +216,7 @@
       "repo_url": "https://github.com/jenslys/zed-catppuccin-blur",
       "owner": "jenslys",
       "repo": "zed-catppuccin-blur",
-      "stars": 327,
+      "stars": 328,
       "category": "Theme",
       "dedicated": true,
       "license": "MIT",
@@ -238,7 +238,7 @@
       "license": "MIT",
       "maintained": true,
       "created_at": "2023-08-04T19:08:33Z",
-      "pushed_at": "2026-06-27T03:05:25Z"
+      "pushed_at": "2026-06-28T03:06:11Z"
     },
     {
       "id": "agnix",
@@ -248,13 +248,13 @@
       "repo_url": "https://github.com/avifenesh/agnix",
       "owner": "avifenesh",
       "repo": "agnix",
-      "stars": 300,
+      "stars": 302,
       "category": "Tool",
       "dedicated": true,
       "license": "Apache-2.0",
       "maintained": true,
       "created_at": "2026-01-30T23:54:10Z",
-      "pushed_at": "2026-06-26T19:44:22Z"
+      "pushed_at": "2026-06-27T22:00:32Z"
     },
     {
       "id": "oxc",
@@ -264,7 +264,7 @@
       "repo_url": "https://github.com/oxc-project/oxc-zed",
       "owner": "oxc-project",
       "repo": "oxc-zed",
-      "stars": 279,
+      "stars": 280,
       "category": "Language",
       "dedicated": true,
       "license": "MIT",
@@ -337,6 +337,22 @@
       "pushed_at": "2026-06-20T18:17:28Z"
     },
     {
+      "id": "wakatime",
+      "name": "wakatime",
+      "description": "Zed plugin for automatic time tracking and metrics generated from your programming activity.",
+      "version": "0.1.10",
+      "repo_url": "https://github.com/wakatime/zed-wakatime",
+      "owner": "wakatime",
+      "repo": "zed-wakatime",
+      "stars": 197,
+      "category": "Language",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2024-08-27T10:31:46Z",
+      "pushed_at": "2026-06-23T02:37:23Z"
+    },
+    {
       "id": "vue",
       "name": "Vue",
       "description": "Vue support",
@@ -353,22 +369,6 @@
       "pushed_at": "2026-06-24T13:59:24Z"
     },
     {
-      "id": "wakatime",
-      "name": "wakatime",
-      "description": "Zed plugin for automatic time tracking and metrics generated from your programming activity.",
-      "version": "0.1.10",
-      "repo_url": "https://github.com/wakatime/zed-wakatime",
-      "owner": "wakatime",
-      "repo": "zed-wakatime",
-      "stars": 196,
-      "category": "Language",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2024-08-27T10:31:46Z",
-      "pushed_at": "2026-06-23T02:37:23Z"
-    },
-    {
       "id": "symposium",
       "name": "Symposium",
       "description": "AI the Rust Way",
@@ -382,7 +382,7 @@
       "license": "NOASSERTION",
       "maintained": true,
       "created_at": "2025-08-29T18:15:01Z",
-      "pushed_at": "2026-06-26T20:51:40Z"
+      "pushed_at": "2026-06-27T10:20:42Z"
     },
     {
       "id": "css-modules-kit",
@@ -401,6 +401,22 @@
       "pushed_at": "2026-06-20T04:27:32Z"
     },
     {
+      "id": "panache-language-server",
+      "name": "Panache Language Server",
+      "description": "Language server, formatter, and linter for Markdown, Quarto, and R Markdown",
+      "version": "2.35.1",
+      "repo_url": "https://github.com/jolars/panache",
+      "owner": "jolars",
+      "repo": "panache",
+      "stars": 182,
+      "category": "Tool",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2025-09-03T09:23:26Z",
+      "pushed_at": "2026-06-26T14:17:17Z"
+    },
+    {
       "id": "gdscript",
       "name": "GDScript",
       "description": "Zed support for the Godot game engine and the GDScript language",
@@ -417,22 +433,6 @@
       "pushed_at": "2026-05-21T10:29:17Z"
     },
     {
-      "id": "panache-language-server",
-      "name": "Panache Language Server",
-      "description": "Language server, formatter, and linter for Markdown, Quarto, and R Markdown",
-      "version": "2.35.1",
-      "repo_url": "https://github.com/jolars/panache",
-      "owner": "jolars",
-      "repo": "panache",
-      "stars": 180,
-      "category": "Tool",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2025-09-03T09:23:26Z",
-      "pushed_at": "2026-06-26T14:17:17Z"
-    },
-    {
       "id": "typst",
       "name": "Typst",
       "description": "Typst extension for zed",
@@ -440,7 +440,7 @@
       "repo_url": "https://github.com/WeetHet/typst.zed",
       "owner": "WeetHet",
       "repo": "typst.zed",
-      "stars": 176,
+      "stars": 177,
       "category": "Language",
       "dedicated": true,
       "license": "Apache-2.0",
@@ -456,13 +456,13 @@
       "repo_url": "https://github.com/thedadams/zed-comment",
       "owner": "thedadams",
       "repo": "zed-comment",
-      "stars": 162,
+      "stars": 165,
       "category": "Language",
       "dedicated": true,
       "license": "MIT",
       "maintained": true,
       "created_at": "2025-09-19T22:24:05Z",
-      "pushed_at": "2026-05-29T00:34:32Z"
+      "pushed_at": "2026-06-27T15:38:39Z"
     },
     {
       "id": "macos-classic",
@@ -551,7 +551,7 @@
       "repo_url": "https://github.com/etiennebacher/jarl",
       "owner": "etiennebacher",
       "repo": "jarl",
-      "stars": 144,
+      "stars": 145,
       "category": "Other",
       "dedicated": true,
       "license": "MIT",
@@ -678,7 +678,7 @@
       "repo_url": "https://github.com/JuliaEditorSupport/zed-julia",
       "owner": "JuliaEditorSupport",
       "repo": "zed-julia",
-      "stars": 115,
+      "stars": 116,
       "category": "Language",
       "dedicated": true,
       "license": "MIT",
@@ -807,14 +807,14 @@
       "repo_url": "https://github.com/slint-ui/slint",
       "owner": "slint-ui",
       "repo": "slint",
-      "stars": 23038,
+      "stars": 23053,
       "category": "Language",
       "dedicated": false,
       "license": "NOASSERTION",
       "maintained": true,
       "created_at": "2020-05-04T08:53:03Z",
       "pushed_at": "2026-06-26T21:52:32Z",
-      "growth": 93
+      "growth": 92
     },
     {
       "id": "lisette",
@@ -824,14 +824,14 @@
       "repo_url": "https://github.com/ivov/lisette",
       "owner": "ivov",
       "repo": "lisette",
-      "stars": 1379,
+      "stars": 1389,
       "category": "Language",
       "dedicated": true,
       "license": "MIT",
       "maintained": true,
       "created_at": "2026-03-21T14:02:38Z",
-      "pushed_at": "2026-06-26T21:34:40Z",
-      "growth": 36
+      "pushed_at": "2026-06-27T22:07:06Z",
+      "growth": 44
     },
     {
       "id": "lumin-theme",
@@ -848,24 +848,7 @@
       "maintained": true,
       "created_at": "2026-06-19T12:01:33Z",
       "pushed_at": "2026-06-26T10:51:03Z",
-      "growth": 33
-    },
-    {
-      "id": "tombi",
-      "name": "Tombi",
-      "description": "TOML Formatter / Linter / Language Server",
-      "version": "0.2.4",
-      "repo_url": "https://github.com/tombi-toml/tombi",
-      "owner": "tombi-toml",
-      "repo": "tombi",
-      "stars": 1000,
-      "category": "Tool",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2024-10-08T16:28:51Z",
-      "pushed_at": "2026-06-26T15:06:31Z",
-      "growth": 15
+      "growth": 20
     },
     {
       "id": "flexoki-themes",
@@ -875,14 +858,31 @@
       "repo_url": "https://github.com/kepano/flexoki",
       "owner": "kepano",
       "repo": "flexoki",
-      "stars": 3523,
+      "stars": 3526,
       "category": "Theme",
       "dedicated": true,
       "license": "MIT",
       "maintained": true,
       "created_at": "2023-10-07T22:21:40Z",
       "pushed_at": "2026-03-07T20:27:36Z",
-      "growth": 14
+      "growth": 16
+    },
+    {
+      "id": "tombi",
+      "name": "Tombi",
+      "description": "TOML Formatter / Linter / Language Server",
+      "version": "0.2.4",
+      "repo_url": "https://github.com/tombi-toml/tombi",
+      "owner": "tombi-toml",
+      "repo": "tombi",
+      "stars": 1002,
+      "category": "Tool",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2024-10-08T16:28:51Z",
+      "pushed_at": "2026-06-28T05:42:56Z",
+      "growth": 15
     },
     {
       "id": "bloc",
@@ -909,14 +909,31 @@
       "repo_url": "https://github.com/avifenesh/agnix",
       "owner": "avifenesh",
       "repo": "agnix",
-      "stars": 300,
+      "stars": 302,
       "category": "Tool",
       "dedicated": true,
       "license": "Apache-2.0",
       "maintained": true,
       "created_at": "2026-01-30T23:54:10Z",
-      "pushed_at": "2026-06-26T19:44:22Z",
-      "growth": 6
+      "pushed_at": "2026-06-27T22:00:32Z",
+      "growth": 7
+    },
+    {
+      "id": "comment",
+      "name": "Comments Highlighter",
+      "description": "A comment extension for the Zed editor",
+      "version": "0.6.6",
+      "repo_url": "https://github.com/thedadams/zed-comment",
+      "owner": "thedadams",
+      "repo": "zed-comment",
+      "stars": 165,
+      "category": "Language",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2025-09-19T22:24:05Z",
+      "pushed_at": "2026-06-27T15:38:39Z",
+      "growth": 7
     },
     {
       "id": "laravel",
@@ -926,14 +943,82 @@
       "repo_url": "https://github.com/mike-bronner/zed-laravel",
       "owner": "mike-bronner",
       "repo": "zed-laravel",
-      "stars": 77,
+      "stars": 79,
       "category": "Language",
       "dedicated": true,
       "license": "MIT",
       "maintained": true,
       "created_at": "2025-12-14T14:44:47Z",
-      "pushed_at": "2026-06-24T15:18:16Z",
-      "growth": 6
+      "pushed_at": "2026-06-27T23:20:10Z",
+      "growth": 7
+    },
+    {
+      "id": "oxc",
+      "name": "Oxc",
+      "description": "Oxc extension for Zed",
+      "version": "0.4.7",
+      "repo_url": "https://github.com/oxc-project/oxc-zed",
+      "owner": "oxc-project",
+      "repo": "oxc-zed",
+      "stars": 280,
+      "category": "Language",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2024-09-17T20:07:08Z",
+      "pushed_at": "2026-06-22T13:07:48Z",
+      "growth": 5
+    },
+    {
+      "id": "panache-language-server",
+      "name": "Panache Language Server",
+      "description": "Language server, formatter, and linter for Markdown, Quarto, and R Markdown",
+      "version": "2.35.1",
+      "repo_url": "https://github.com/jolars/panache",
+      "owner": "jolars",
+      "repo": "panache",
+      "stars": 182,
+      "category": "Tool",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2025-09-03T09:23:26Z",
+      "pushed_at": "2026-06-26T14:17:17Z",
+      "growth": 5
+    },
+    {
+      "id": "wakatime",
+      "name": "wakatime",
+      "description": "Zed plugin for automatic time tracking and metrics generated from your programming activity.",
+      "version": "0.1.10",
+      "repo_url": "https://github.com/wakatime/zed-wakatime",
+      "owner": "wakatime",
+      "repo": "zed-wakatime",
+      "stars": 197,
+      "category": "Language",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2024-08-27T10:31:46Z",
+      "pushed_at": "2026-06-23T02:37:23Z",
+      "growth": 5
+    },
+    {
+      "id": "air",
+      "name": "Air",
+      "description": "R formatter and language server",
+      "version": "0.1.0",
+      "repo_url": "https://github.com/posit-dev/air",
+      "owner": "posit-dev",
+      "repo": "air",
+      "stars": 437,
+      "category": "Other",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2024-10-26T18:24:07Z",
+      "pushed_at": "2026-06-19T18:35:28Z",
+      "growth": 4
     },
     {
       "id": "civet",
@@ -949,75 +1034,7 @@
       "license": "MIT",
       "maintained": true,
       "created_at": "2022-08-10T21:07:26Z",
-      "pushed_at": "2026-06-27T05:49:16Z",
-      "growth": 5
-    },
-    {
-      "id": "csskit-lsp",
-      "name": "Csskit Lsp",
-      "description": "Refreshing CSS",
-      "version": "0.0.1",
-      "repo_url": "https://github.com/csskit/csskit",
-      "owner": "csskit",
-      "repo": "csskit",
-      "stars": 309,
-      "category": "Tool",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2023-08-04T19:08:33Z",
-      "pushed_at": "2026-06-27T03:05:25Z",
-      "growth": 5
-    },
-    {
-      "id": "nvim-nightfox",
-      "name": "Nightfox - opaque / blurred",
-      "description": "🦊 Zed editor theme ported from Neovim",
-      "version": "0.10.1",
-      "repo_url": "https://github.com/cange/nightfox.zed",
-      "owner": "cange",
-      "repo": "nightfox.zed",
-      "stars": 151,
-      "category": "Theme",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2024-05-02T20:49:30Z",
-      "pushed_at": "2026-06-16T10:23:50Z",
-      "growth": 5
-    },
-    {
-      "id": "oxc",
-      "name": "Oxc",
-      "description": "Oxc extension for Zed",
-      "version": "0.4.7",
-      "repo_url": "https://github.com/oxc-project/oxc-zed",
-      "owner": "oxc-project",
-      "repo": "oxc-zed",
-      "stars": 279,
-      "category": "Language",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2024-09-17T20:07:08Z",
-      "pushed_at": "2026-06-22T13:07:48Z",
-      "growth": 5
-    },
-    {
-      "id": "comment",
-      "name": "Comments Highlighter",
-      "description": "A comment extension for the Zed editor",
-      "version": "0.6.6",
-      "repo_url": "https://github.com/thedadams/zed-comment",
-      "owner": "thedadams",
-      "repo": "zed-comment",
-      "stars": 162,
-      "category": "Language",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2025-09-19T22:24:05Z",
-      "pushed_at": "2026-05-29T00:34:32Z",
+      "pushed_at": "2026-06-27T22:27:41Z",
       "growth": 4
     },
     {
@@ -1038,23 +1055,6 @@
       "growth": 4
     },
     {
-      "id": "git-firefly",
-      "name": "Git Firefly",
-      "description": "Provides Git Syntax Highlighting",
-      "version": "0.1.8",
-      "repo_url": "https://github.com/d1y/git_firefly",
-      "owner": "d1y",
-      "repo": "git_firefly",
-      "stars": 139,
-      "category": "Language",
-      "dedicated": true,
-      "license": "Apache-2.0",
-      "maintained": true,
-      "created_at": "2024-02-19T14:56:35Z",
-      "pushed_at": "2026-06-23T07:36:30Z",
-      "growth": 4
-    },
-    {
       "id": "java",
       "name": "Java",
       "description": "Extension for Zed to support Java",
@@ -1072,54 +1072,37 @@
       "growth": 4
     },
     {
-      "id": "panache-language-server",
-      "name": "Panache Language Server",
-      "description": "Language server, formatter, and linter for Markdown, Quarto, and R Markdown",
-      "version": "2.35.1",
-      "repo_url": "https://github.com/jolars/panache",
-      "owner": "jolars",
-      "repo": "panache",
-      "stars": 180,
-      "category": "Tool",
+      "id": "nvim-nightfox",
+      "name": "Nightfox - opaque / blurred",
+      "description": "🦊 Zed editor theme ported from Neovim",
+      "version": "0.10.1",
+      "repo_url": "https://github.com/cange/nightfox.zed",
+      "owner": "cange",
+      "repo": "nightfox.zed",
+      "stars": 151,
+      "category": "Theme",
       "dedicated": true,
       "license": "MIT",
       "maintained": true,
-      "created_at": "2025-09-03T09:23:26Z",
-      "pushed_at": "2026-06-26T14:17:17Z",
+      "created_at": "2024-05-02T20:49:30Z",
+      "pushed_at": "2026-06-16T10:23:50Z",
       "growth": 4
     },
     {
-      "id": "wakatime",
-      "name": "wakatime",
-      "description": "Zed plugin for automatic time tracking and metrics generated from your programming activity.",
-      "version": "0.1.10",
-      "repo_url": "https://github.com/wakatime/zed-wakatime",
-      "owner": "wakatime",
-      "repo": "zed-wakatime",
-      "stars": 196,
-      "category": "Language",
+      "id": "aura-theme",
+      "name": "Aura Theme",
+      "description": "✨ A beautiful dark theme for your favorite apps.",
+      "version": "1.0.0",
+      "repo_url": "https://github.com/daltonmenezes/aura-theme",
+      "owner": "daltonmenezes",
+      "repo": "aura-theme",
+      "stars": 3798,
+      "category": "Theme",
       "dedicated": true,
       "license": "MIT",
       "maintained": true,
-      "created_at": "2024-08-27T10:31:46Z",
-      "pushed_at": "2026-06-23T02:37:23Z",
-      "growth": 4
-    },
-    {
-      "id": "air",
-      "name": "Air",
-      "description": "R formatter and language server",
-      "version": "0.1.0",
-      "repo_url": "https://github.com/posit-dev/air",
-      "owner": "posit-dev",
-      "repo": "air",
-      "stars": 436,
-      "category": "Other",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2024-10-26T18:24:07Z",
-      "pushed_at": "2026-06-19T18:35:28Z",
+      "created_at": "2020-08-16T16:10:14Z",
+      "pushed_at": "2025-12-20T12:24:34Z",
       "growth": 3
     },
     {
@@ -1138,6 +1121,23 @@
       "created_at": "2022-12-19T13:02:37Z",
       "pushed_at": "2026-05-30T18:30:31Z",
       "growth": 3
+    },
+    {
+      "id": "csskit-lsp",
+      "name": "Csskit Lsp",
+      "description": "Refreshing CSS",
+      "version": "0.0.1",
+      "repo_url": "https://github.com/csskit/csskit",
+      "owner": "csskit",
+      "repo": "csskit",
+      "stars": 309,
+      "category": "Tool",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2023-08-04T19:08:33Z",
+      "pushed_at": "2026-06-28T03:06:11Z",
+      "growth": 3
     }
   ],
   "RecentlyAdded": [
@@ -1149,7 +1149,7 @@
       "repo_url": "https://github.com/ams-sth/vantadark",
       "owner": "ams-sth",
       "repo": "vantadark",
-      "stars": 0,
+      "stars": 1,
       "category": "Other",
       "dedicated": true,
       "license": "NOASSERTION",
@@ -1452,7 +1452,7 @@
       "repo_url": "https://github.com/rockas-d/zenburn-transparent",
       "owner": "rockas-d",
       "repo": "zenburn-transparent",
-      "stars": 1,
+      "stars": 2,
       "category": "Theme",
       "dedicated": true,
       "license": "NOASSERTION",
@@ -1525,22 +1525,6 @@
       "pushed_at": "2026-05-28T10:40:42Z"
     },
     {
-      "id": "veda-pro-theme",
-      "name": "Veda Pro",
-      "description": "Veda Pro — a vivid One Dark Pro-inspired Zed theme on a deep violet-indigo background.",
-      "version": "0.1.1",
-      "repo_url": "https://github.com/xqsit94/veda-pro-zed",
-      "owner": "xqsit94",
-      "repo": "veda-pro-zed",
-      "stars": 0,
-      "category": "Theme",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2026-05-27T16:40:09Z",
-      "pushed_at": "2026-05-28T06:08:28Z"
-    },
-    {
       "id": "json-tool-lsp",
       "name": "json-tool-lsp",
       "description": "Format and minify open JSON buffers through a minimal LSP bridge.",
@@ -1555,38 +1539,6 @@
       "maintained": true,
       "created_at": "2026-05-27T15:05:53Z",
       "pushed_at": "2026-06-12T01:46:09Z"
-    },
-    {
-      "id": "cobalt2x2-theme",
-      "name": "Cobalt2x2",
-      "description": "Continuation of the OG Cobalt2",
-      "version": "0.0.1",
-      "repo_url": "https://github.com/kbilkis/cobalt2x2",
-      "owner": "kbilkis",
-      "repo": "cobalt2x2",
-      "stars": 1,
-      "category": "Other",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2026-05-25T18:43:10Z",
-      "pushed_at": "2026-05-25T22:09:42Z"
-    },
-    {
-      "id": "vespertine-theme",
-      "name": "Vespertine",
-      "description": "Peppermint and orange flavored light theme for Zed.",
-      "version": "0.0.1",
-      "repo_url": "https://github.com/filipeveronezi/vespertine",
-      "owner": "filipeveronezi",
-      "repo": "vespertine",
-      "stars": 3,
-      "category": "Theme",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2026-05-25T11:11:25Z",
-      "pushed_at": "2026-05-25T11:59:57Z"
     },
     {
       "id": "koda-theme",
@@ -1619,6 +1571,54 @@
       "maintained": true,
       "created_at": "2026-05-22T18:49:00Z",
       "pushed_at": "2026-05-22T22:39:48Z"
+    },
+    {
+      "id": "air-theme",
+      "name": "Air Theme",
+      "description": "Zed port of JetBrains Air theme — calm dark + light + italic variants",
+      "version": "0.1.0",
+      "repo_url": "https://github.com/franzgollhammer/air-theme-zed",
+      "owner": "franzgollhammer",
+      "repo": "air-theme-zed",
+      "stars": 1,
+      "category": "Theme",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2026-05-21T12:23:26Z",
+      "pushed_at": "2026-06-11T09:10:18Z"
+    },
+    {
+      "id": "al-business-central",
+      "name": "Al Business Central",
+      "description": "AL language support for Zed — Microsoft Dynamics 365 Business Central",
+      "version": "0.1.0",
+      "repo_url": "https://github.com/mhensberg2003/ALzed",
+      "owner": "mhensberg2003",
+      "repo": "ALzed",
+      "stars": 3,
+      "category": "Language",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2026-05-21T08:47:56Z",
+      "pushed_at": "2026-05-31T23:09:33Z"
+    },
+    {
+      "id": "todo-highlight-language-server",
+      "name": "Todo Highlight Language Server",
+      "description": "TODO Highlighter for Zed",
+      "version": "0.2.2",
+      "repo_url": "https://github.com/shionit/zed-todo-highlight",
+      "owner": "shionit",
+      "repo": "zed-todo-highlight",
+      "stars": 3,
+      "category": "Other",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2026-05-17T18:07:03Z",
+      "pushed_at": "2026-06-21T10:58:01Z"
     }
   ],
   "Themes": [
@@ -1630,7 +1630,7 @@
       "repo_url": "https://github.com/daltonmenezes/aura-theme",
       "owner": "daltonmenezes",
       "repo": "aura-theme",
-      "stars": 3797,
+      "stars": 3798,
       "category": "Theme",
       "dedicated": true,
       "license": "MIT",
@@ -1646,7 +1646,7 @@
       "repo_url": "https://github.com/kepano/flexoki",
       "owner": "kepano",
       "repo": "flexoki",
-      "stars": 3523,
+      "stars": 3526,
       "category": "Theme",
       "dedicated": true,
       "license": "MIT",
@@ -1678,7 +1678,7 @@
       "repo_url": "https://github.com/jenslys/zed-catppuccin-blur",
       "owner": "jenslys",
       "repo": "zed-catppuccin-blur",
-      "stars": 327,
+      "stars": 328,
       "category": "Theme",
       "dedicated": true,
       "license": "MIT",
@@ -1789,7 +1789,7 @@
       "repo_url": "https://github.com/felipefdl/warm-burnout",
       "owner": "felipefdl",
       "repo": "warm-burnout",
-      "stars": 98,
+      "stars": 99,
       "category": "Theme",
       "dedicated": true,
       "license": "MIT",
@@ -1837,13 +1837,13 @@
       "repo_url": "https://github.com/Imgkl/the-dark-side",
       "owner": "Imgkl",
       "repo": "the-dark-side",
-      "stars": 86,
+      "stars": 87,
       "category": "Theme",
       "dedicated": true,
       "license": "MIT",
       "maintained": true,
       "created_at": "2024-02-22T02:32:46Z",
-      "pushed_at": "2026-06-27T02:57:59Z"
+      "pushed_at": "2026-06-28T02:58:38Z"
     },
     {
       "id": "fleet-themes",
@@ -1853,7 +1853,7 @@
       "repo_url": "https://github.com/skarline/zed-fleet-themes",
       "owner": "skarline",
       "repo": "zed-fleet-themes",
-      "stars": 85,
+      "stars": 86,
       "category": "Theme",
       "dedicated": true,
       "maintained": false,
@@ -1868,7 +1868,7 @@
       "repo_url": "https://github.com/zarifpour/xy-zed",
       "owner": "zarifpour",
       "repo": "xy-zed",
-      "stars": 80,
+      "stars": 81,
       "category": "Theme",
       "dedicated": true,
       "license": "MIT",
@@ -2607,6 +2607,22 @@
       "pushed_at": "2026-03-13T01:28:01Z"
     },
     {
+      "id": "zed-legacy-themes",
+      "name": "Zed Legacy Themes",
+      "description": "Zed Legacy Themes",
+      "version": "0.0.3",
+      "repo_url": "https://github.com/zed-extensions/legacy-themes",
+      "owner": "zed-extensions",
+      "repo": "legacy-themes",
+      "stars": 17,
+      "category": "Theme",
+      "dedicated": true,
+      "license": "Apache-2.0",
+      "maintained": true,
+      "created_at": "2025-02-03T23:51:40Z",
+      "pushed_at": "2026-06-07T22:08:28Z"
+    },
+    {
       "id": "one-dark-pro-monokai-darker",
       "name": "One Dark Pro Monokai Darker Theme",
       "description": "A Darker One Dark Pro variation with Monokai scheme for Zed",
@@ -2621,22 +2637,6 @@
       "maintained": false,
       "created_at": "2024-07-11T17:54:01Z",
       "pushed_at": "2024-07-20T18:56:35Z"
-    },
-    {
-      "id": "zed-legacy-themes",
-      "name": "Zed Legacy Themes",
-      "description": "Zed Legacy Themes",
-      "version": "0.0.3",
-      "repo_url": "https://github.com/zed-extensions/legacy-themes",
-      "owner": "zed-extensions",
-      "repo": "legacy-themes",
-      "stars": 16,
-      "category": "Theme",
-      "dedicated": true,
-      "license": "Apache-2.0",
-      "maintained": true,
-      "created_at": "2025-02-03T23:51:40Z",
-      "pushed_at": "2026-06-07T22:08:28Z"
     },
     {
       "id": "adwaita-pastel",
@@ -2942,6 +2942,22 @@
       "pushed_at": "2025-03-16T17:26:28Z"
     },
     {
+      "id": "vscode-classic-themes",
+      "name": "VS Code Classics",
+      "description": "❤️ All 19 built-in Visual Studio Code color themes, ported to Zed.",
+      "version": "0.4.0",
+      "repo_url": "https://github.com/alanisme/vscode-themes-for-zed",
+      "owner": "alanisme",
+      "repo": "vscode-themes-for-zed",
+      "stars": 12,
+      "category": "Theme",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2026-03-09T00:14:00Z",
+      "pushed_at": "2026-06-16T08:47:30Z"
+    },
+    {
       "id": "vscode-light-plus",
       "name": "VSCode Light+",
       "description": "Port of the VSCode Light+ (Default Light+) theme for the Zed code editor",
@@ -3083,22 +3099,6 @@
       "maintained": true,
       "created_at": "2025-06-29T17:55:29Z",
       "pushed_at": "2026-06-19T09:04:35Z"
-    },
-    {
-      "id": "vscode-classic-themes",
-      "name": "VS Code Classics",
-      "description": "❤️ All 19 built-in Visual Studio Code color themes, ported to Zed.",
-      "version": "0.4.0",
-      "repo_url": "https://github.com/alanisme/vscode-themes-for-zed",
-      "owner": "alanisme",
-      "repo": "vscode-themes-for-zed",
-      "stars": 11,
-      "category": "Theme",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2026-03-09T00:14:00Z",
-      "pushed_at": "2026-06-16T08:47:30Z"
     },
     {
       "id": "zedwaita",
@@ -4452,6 +4452,22 @@
       "pushed_at": "2025-02-26T02:46:40Z"
     },
     {
+      "id": "yugen",
+      "name": "Yugen Theme",
+      "description": "Yūgen (幽玄) – A profound awareness of the universe that triggers feelings too deep and mysterious for words.",
+      "version": "0.0.1",
+      "repo_url": "https://github.com/frank-vdm/yugen",
+      "owner": "frank-vdm",
+      "repo": "yugen",
+      "stars": 5,
+      "category": "Theme",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": false,
+      "created_at": "2024-09-30T14:38:16Z",
+      "pushed_at": "2025-05-21T17:39:13Z"
+    },
+    {
       "id": "anthracite-theme",
       "name": "Anthracite",
       "description": "Anthracite theme for Zed Editor.",
@@ -4624,6 +4640,22 @@
       "maintained": false,
       "created_at": "2024-09-13T10:44:56Z",
       "pushed_at": "2025-02-24T02:01:59Z"
+    },
+    {
+      "id": "hipster-green-theme",
+      "name": "Hipster Green Theme",
+      "description": "An exact port of Tabby/iTerm2's Hipster Green color scheme - a vibrant terminal-inspired theme with classic green-on-black aesthetic and modern syntax highlighting",
+      "version": "1.0.0",
+      "repo_url": "https://github.com/1ay1/hipster-green-zed-theme",
+      "owner": "1ay1",
+      "repo": "hipster-green-zed-theme",
+      "stars": 4,
+      "category": "Theme",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2025-10-27T14:17:21Z",
+      "pushed_at": "2025-10-27T14:22:11Z"
     },
     {
       "id": "iceberg",
@@ -4877,22 +4909,6 @@
       "maintained": false,
       "created_at": "2024-06-10T17:51:20Z",
       "pushed_at": "2024-12-20T14:20:33Z"
-    },
-    {
-      "id": "yugen",
-      "name": "Yugen Theme",
-      "description": "Yūgen (幽玄) – A profound awareness of the universe that triggers feelings too deep and mysterious for words.",
-      "version": "0.0.1",
-      "repo_url": "https://github.com/frank-vdm/yugen",
-      "owner": "frank-vdm",
-      "repo": "yugen",
-      "stars": 4,
-      "category": "Theme",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": false,
-      "created_at": "2024-09-30T14:38:16Z",
-      "pushed_at": "2025-05-21T17:39:13Z"
     },
     {
       "id": "zedburn",
@@ -5260,22 +5276,6 @@
       "maintained": true,
       "created_at": "2025-06-16T12:51:37Z",
       "pushed_at": "2025-10-13T13:32:58Z"
-    },
-    {
-      "id": "hipster-green-theme",
-      "name": "Hipster Green Theme",
-      "description": "An exact port of Tabby/iTerm2's Hipster Green color scheme - a vibrant terminal-inspired theme with classic green-on-black aesthetic and modern syntax highlighting",
-      "version": "1.0.0",
-      "repo_url": "https://github.com/1ay1/hipster-green-zed-theme",
-      "owner": "1ay1",
-      "repo": "hipster-green-zed-theme",
-      "stars": 3,
-      "category": "Theme",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2025-10-27T14:17:21Z",
-      "pushed_at": "2025-10-27T14:22:11Z"
     },
     {
       "id": "jetbrains-rider",
@@ -6497,6 +6497,22 @@
       "pushed_at": "2026-01-10T22:48:17Z"
     },
     {
+      "id": "zenburn-transparent-theme",
+      "name": "Zenburn Transparent",
+      "description": "Zenburn Transparent — low-contrast Zenburn palette for Zed with a blurred/translucent UI",
+      "version": "1.0.0",
+      "repo_url": "https://github.com/rockas-d/zenburn-transparent",
+      "owner": "rockas-d",
+      "repo": "zenburn-transparent",
+      "stars": 2,
+      "category": "Theme",
+      "dedicated": true,
+      "license": "NOASSERTION",
+      "maintained": true,
+      "created_at": "2026-05-29T18:59:31Z",
+      "pushed_at": "2026-05-29T23:19:23Z"
+    },
+    {
       "id": "zord-theme",
       "name": "Zord Theme",
       "description": "A modern and minimalistic dark theme for the Zed editor, focused on visual comfort, balanced contrast, and a color palette inspired by Dracula, with its own strong identity.",
@@ -6847,6 +6863,22 @@
       "maintained": true,
       "created_at": "2025-08-17T10:44:35Z",
       "pushed_at": "2025-09-13T01:48:04Z"
+    },
+    {
+      "id": "codestackr",
+      "name": "codeSTACKr theme",
+      "description": "A port of the popular codeSTACKr VS Code theme for Zed Editor",
+      "version": "0.0.1",
+      "repo_url": "https://github.com/Pjort/codestackr-zed",
+      "owner": "Pjort",
+      "repo": "codestackr-zed",
+      "stars": 1,
+      "category": "Theme",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": false,
+      "created_at": "2025-05-10T19:35:55Z",
+      "pushed_at": "2025-05-13T11:51:29Z"
     },
     {
       "id": "darcula-dark-okkano",
@@ -7990,22 +8022,6 @@
       "pushed_at": "2024-10-29T05:25:30Z"
     },
     {
-      "id": "zenburn-transparent-theme",
-      "name": "Zenburn Transparent",
-      "description": "Zenburn Transparent — low-contrast Zenburn palette for Zed with a blurred/translucent UI",
-      "version": "1.0.0",
-      "repo_url": "https://github.com/rockas-d/zenburn-transparent",
-      "owner": "rockas-d",
-      "repo": "zenburn-transparent",
-      "stars": 1,
-      "category": "Theme",
-      "dedicated": true,
-      "license": "NOASSERTION",
-      "maintained": true,
-      "created_at": "2026-05-29T18:59:31Z",
-      "pushed_at": "2026-05-29T23:19:23Z"
-    },
-    {
       "id": "zero-trust-theme",
       "name": "Zero Trust Theme",
       "description": "A clean theme for Zed editor featuring light and dark variants.",
@@ -8482,22 +8498,6 @@
       "maintained": true,
       "created_at": "2025-07-12T23:20:09Z",
       "pushed_at": "2025-07-16T00:13:49Z"
-    },
-    {
-      "id": "codestackr",
-      "name": "codeSTACKr theme",
-      "description": "A port of the popular codeSTACKr VS Code theme for Zed Editor",
-      "version": "0.0.1",
-      "repo_url": "https://github.com/Pjort/codestackr-zed",
-      "owner": "Pjort",
-      "repo": "codestackr-zed",
-      "stars": 0,
-      "category": "Theme",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": false,
-      "created_at": "2025-05-10T19:35:55Z",
-      "pushed_at": "2025-05-13T11:51:29Z"
     },
     {
       "id": "commander-gold-theme",
@@ -10993,13 +10993,13 @@
       "repo_url": "https://github.com/ivov/lisette",
       "owner": "ivov",
       "repo": "lisette",
-      "stars": 1379,
+      "stars": 1389,
       "category": "Language",
       "dedicated": true,
       "license": "MIT",
       "maintained": true,
       "created_at": "2026-03-21T14:02:38Z",
-      "pushed_at": "2026-06-26T21:34:40Z"
+      "pushed_at": "2026-06-27T22:07:06Z"
     },
     {
       "id": "clice",
@@ -11009,13 +11009,13 @@
       "repo_url": "https://github.com/clice-io/clice",
       "owner": "clice-io",
       "repo": "clice",
-      "stars": 1250,
+      "stars": 1251,
       "category": "Language",
       "dedicated": true,
       "license": "Apache-2.0",
       "maintained": true,
       "created_at": "2024-07-25T04:42:24Z",
-      "pushed_at": "2026-06-25T13:33:42Z"
+      "pushed_at": "2026-06-28T04:46:58Z"
     },
     {
       "id": "biome",
@@ -11025,7 +11025,7 @@
       "repo_url": "https://github.com/biomejs/biome-zed",
       "owner": "biomejs",
       "repo": "biome-zed",
-      "stars": 482,
+      "stars": 483,
       "category": "Language",
       "dedicated": true,
       "license": "MIT",
@@ -11057,7 +11057,7 @@
       "repo_url": "https://github.com/oxc-project/oxc-zed",
       "owner": "oxc-project",
       "repo": "oxc-zed",
-      "stars": 279,
+      "stars": 280,
       "category": "Language",
       "dedicated": true,
       "license": "MIT",
@@ -11082,6 +11082,22 @@
       "pushed_at": "2026-06-20T18:17:28Z"
     },
     {
+      "id": "wakatime",
+      "name": "wakatime",
+      "description": "Zed plugin for automatic time tracking and metrics generated from your programming activity.",
+      "version": "0.1.10",
+      "repo_url": "https://github.com/wakatime/zed-wakatime",
+      "owner": "wakatime",
+      "repo": "zed-wakatime",
+      "stars": 197,
+      "category": "Language",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2024-08-27T10:31:46Z",
+      "pushed_at": "2026-06-23T02:37:23Z"
+    },
+    {
       "id": "vue",
       "name": "Vue",
       "description": "Vue support",
@@ -11096,22 +11112,6 @@
       "maintained": true,
       "created_at": "2024-10-18T17:46:53Z",
       "pushed_at": "2026-06-24T13:59:24Z"
-    },
-    {
-      "id": "wakatime",
-      "name": "wakatime",
-      "description": "Zed plugin for automatic time tracking and metrics generated from your programming activity.",
-      "version": "0.1.10",
-      "repo_url": "https://github.com/wakatime/zed-wakatime",
-      "owner": "wakatime",
-      "repo": "zed-wakatime",
-      "stars": 196,
-      "category": "Language",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2024-08-27T10:31:46Z",
-      "pushed_at": "2026-06-23T02:37:23Z"
     },
     {
       "id": "css-modules-kit",
@@ -11153,7 +11153,7 @@
       "repo_url": "https://github.com/WeetHet/typst.zed",
       "owner": "WeetHet",
       "repo": "typst.zed",
-      "stars": 176,
+      "stars": 177,
       "category": "Language",
       "dedicated": true,
       "license": "Apache-2.0",
@@ -11169,13 +11169,13 @@
       "repo_url": "https://github.com/thedadams/zed-comment",
       "owner": "thedadams",
       "repo": "zed-comment",
-      "stars": 162,
+      "stars": 165,
       "category": "Language",
       "dedicated": true,
       "license": "MIT",
       "maintained": true,
       "created_at": "2025-09-19T22:24:05Z",
-      "pushed_at": "2026-05-29T00:34:32Z"
+      "pushed_at": "2026-06-27T15:38:39Z"
     },
     {
       "id": "csharp",
@@ -11312,7 +11312,7 @@
       "repo_url": "https://github.com/JuliaEditorSupport/zed-julia",
       "owner": "JuliaEditorSupport",
       "repo": "zed-julia",
-      "stars": 115,
+      "stars": 116,
       "category": "Language",
       "dedicated": true,
       "license": "MIT",
@@ -11369,6 +11369,22 @@
       "pushed_at": "2026-06-07T22:08:05Z"
     },
     {
+      "id": "harper",
+      "name": "harper",
+      "description": "Harper LS extension for the Zed editor",
+      "version": "0.1.5",
+      "repo_url": "https://github.com/zed-extensions/harper",
+      "owner": "zed-extensions",
+      "repo": "harper",
+      "stars": 95,
+      "category": "Language",
+      "dedicated": true,
+      "license": "Apache-2.0",
+      "maintained": true,
+      "created_at": "2024-09-04T11:20:42Z",
+      "pushed_at": "2026-06-07T22:08:13Z"
+    },
+    {
       "id": "dart",
       "name": "Dart",
       "description": "Dart support",
@@ -11383,22 +11399,6 @@
       "maintained": true,
       "created_at": "2024-10-30T14:35:12Z",
       "pushed_at": "2026-06-09T10:58:48Z"
-    },
-    {
-      "id": "harper",
-      "name": "harper",
-      "description": "Harper LS extension for the Zed editor",
-      "version": "0.1.5",
-      "repo_url": "https://github.com/zed-extensions/harper",
-      "owner": "zed-extensions",
-      "repo": "harper",
-      "stars": 94,
-      "category": "Language",
-      "dedicated": true,
-      "license": "Apache-2.0",
-      "maintained": true,
-      "created_at": "2024-09-04T11:20:42Z",
-      "pushed_at": "2026-06-07T22:08:13Z"
     },
     {
       "id": "php",
@@ -11456,13 +11456,13 @@
       "repo_url": "https://github.com/mike-bronner/zed-laravel",
       "owner": "mike-bronner",
       "repo": "zed-laravel",
-      "stars": 77,
+      "stars": 79,
       "category": "Language",
       "dedicated": true,
       "license": "MIT",
       "maintained": true,
       "created_at": "2025-12-14T14:44:47Z",
-      "pushed_at": "2026-06-24T15:18:16Z"
+      "pushed_at": "2026-06-27T23:20:10Z"
     },
     {
       "id": "mermaid",
@@ -11618,7 +11618,7 @@
       "repo_url": "https://github.com/jackTabsCode/zed-just",
       "owner": "jackTabsCode",
       "repo": "zed-just",
-      "stars": 58,
+      "stars": 59,
       "category": "Language",
       "dedicated": true,
       "license": "MIT",
@@ -11698,7 +11698,7 @@
       "repo_url": "https://github.com/zarifpour/zed-env",
       "owner": "zarifpour",
       "repo": "zed-env",
-      "stars": 52,
+      "stars": 53,
       "category": "Language",
       "dedicated": true,
       "license": "MIT",
@@ -11803,6 +11803,22 @@
       "pushed_at": "2026-04-20T19:10:13Z"
     },
     {
+      "id": "cem",
+      "name": "Cem",
+      "description": "The standards-based toolkit for Web Components. Generate Custom Elements Manifests, Dev Server, LSP, and MCP for your app or design system",
+      "version": "0.10.5",
+      "repo_url": "https://github.com/bennypowers/cem",
+      "owner": "bennypowers",
+      "repo": "cem",
+      "stars": 45,
+      "category": "Language",
+      "dedicated": true,
+      "license": "GPL-3.0",
+      "maintained": true,
+      "created_at": "2025-05-27T14:31:46Z",
+      "pushed_at": "2026-06-26T13:22:07Z"
+    },
+    {
       "id": "log",
       "name": "LOG",
       "description": "Syntax highlighting for log files in Zed.",
@@ -11849,22 +11865,6 @@
       "maintained": true,
       "created_at": "2024-04-28T16:23:15Z",
       "pushed_at": "2026-06-12T06:09:30Z"
-    },
-    {
-      "id": "cem",
-      "name": "Cem",
-      "description": "The standards-based toolkit for Web Components. Generate Custom Elements Manifests, Dev Server, LSP, and MCP for your app or design system",
-      "version": "0.10.5",
-      "repo_url": "https://github.com/bennypowers/cem",
-      "owner": "bennypowers",
-      "repo": "cem",
-      "stars": 43,
-      "category": "Language",
-      "dedicated": true,
-      "license": "GPL-3.0",
-      "maintained": true,
-      "created_at": "2025-05-27T14:31:46Z",
-      "pushed_at": "2026-06-26T13:22:07Z"
     },
     {
       "id": "crystal",
@@ -12678,6 +12678,22 @@
       "pushed_at": "2025-09-16T19:31:53Z"
     },
     {
+      "id": "moonbit",
+      "name": "MoonBit",
+      "description": "MoonBit support.",
+      "version": "0.1.1",
+      "repo_url": "https://github.com/quirk-lab/zed-moonbit",
+      "owner": "quirk-lab",
+      "repo": "zed-moonbit",
+      "stars": 18,
+      "category": "Language",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2025-04-03T04:07:31Z",
+      "pushed_at": "2026-06-27T17:47:06Z"
+    },
+    {
       "id": "phpcs",
       "name": "PHPCS",
       "description": "PHPCS linter for Zed",
@@ -12740,22 +12756,6 @@
       "maintained": true,
       "created_at": "2024-02-09T01:09:28Z",
       "pushed_at": "2026-06-07T22:08:02Z"
-    },
-    {
-      "id": "moonbit",
-      "name": "MoonBit",
-      "description": "MoonBit support.",
-      "version": "0.1.1",
-      "repo_url": "https://github.com/quirk-lab/zed-moonbit",
-      "owner": "quirk-lab",
-      "repo": "zed-moonbit",
-      "stars": 17,
-      "category": "Language",
-      "dedicated": true,
-      "license": "Apache-2.0",
-      "maintained": true,
-      "created_at": "2025-04-03T04:07:31Z",
-      "pushed_at": "2025-10-24T03:46:16Z"
     },
     {
       "id": "prisma",
@@ -13139,22 +13139,6 @@
       "pushed_at": "2025-09-29T17:40:12Z"
     },
     {
-      "id": "defold",
-      "name": "Defold",
-      "description": "Defold game engine support with bundled API docs, Lua language server, and code snippets",
-      "version": "0.1.4",
-      "repo_url": "https://github.com/whiterabbit1983/zed-defold",
-      "owner": "whiterabbit1983",
-      "repo": "zed-defold",
-      "stars": 13,
-      "category": "Language",
-      "dedicated": true,
-      "license": "Apache-2.0",
-      "maintained": true,
-      "created_at": "2025-10-24T20:19:01Z",
-      "pushed_at": "2025-12-02T15:59:43Z"
-    },
-    {
       "id": "marksman",
       "name": "Marksman",
       "description": "Marksman support for Zed",
@@ -13233,6 +13217,22 @@
       "maintained": true,
       "created_at": "2024-07-26T15:33:13Z",
       "pushed_at": "2025-11-17T09:53:05Z"
+    },
+    {
+      "id": "defold",
+      "name": "Defold",
+      "description": "Defold game engine support with bundled API docs, Lua language server, and code snippets",
+      "version": "0.1.4",
+      "repo_url": "https://github.com/whiterabbit1983/zed-defold",
+      "owner": "whiterabbit1983",
+      "repo": "zed-defold",
+      "stars": 12,
+      "category": "Language",
+      "dedicated": true,
+      "license": "Apache-2.0",
+      "maintained": true,
+      "created_at": "2025-10-24T20:19:01Z",
+      "pushed_at": "2025-12-02T15:59:43Z"
     },
     {
       "id": "graphviz",
@@ -13601,6 +13601,22 @@
       "pushed_at": "2024-09-17T21:14:24Z"
     },
     {
+      "id": "plaintasks",
+      "name": "PlainTasks",
+      "description": "Manage todo lists with ease. Syntax highlighting for todo files with support for projects, tags, and task states.",
+      "version": "0.1.0",
+      "repo_url": "https://github.com/cseelus/plaintasks-zed",
+      "owner": "cseelus",
+      "repo": "plaintasks-zed",
+      "stars": 8,
+      "category": "Language",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2025-12-29T23:30:21Z",
+      "pushed_at": "2026-02-20T00:14:33Z"
+    },
+    {
       "id": "powershell",
       "name": "PowerShell",
       "description": "PowerShell extension for Zed",
@@ -13757,22 +13773,6 @@
       "maintained": false,
       "created_at": "2025-01-08T10:22:41Z",
       "pushed_at": "2025-01-08T10:23:50Z"
-    },
-    {
-      "id": "plaintasks",
-      "name": "PlainTasks",
-      "description": "Manage todo lists with ease. Syntax highlighting for todo files with support for projects, tags, and task states.",
-      "version": "0.1.0",
-      "repo_url": "https://github.com/cseelus/plaintasks-zed",
-      "owner": "cseelus",
-      "repo": "plaintasks-zed",
-      "stars": 7,
-      "category": "Language",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2025-12-29T23:30:21Z",
-      "pushed_at": "2026-02-20T00:14:33Z"
     },
     {
       "id": "purescript",
@@ -13948,6 +13948,22 @@
       "maintained": true,
       "created_at": "2025-07-28T18:31:21Z",
       "pushed_at": "2026-02-16T05:03:14Z"
+    },
+    {
+      "id": "phpmd",
+      "name": "PHPMD",
+      "description": "PHPMD linter for Zed editor.",
+      "version": "0.1.5",
+      "repo_url": "https://github.com/mike-bronner/zed-phpmd-lsp",
+      "owner": "mike-bronner",
+      "repo": "zed-phpmd-lsp",
+      "stars": 6,
+      "category": "Language",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2025-09-01T14:25:47Z",
+      "pushed_at": "2026-06-22T22:04:22Z"
     },
     {
       "id": "python-requirements",
@@ -14282,22 +14298,6 @@
       "maintained": true,
       "created_at": "2025-11-11T06:48:41Z",
       "pushed_at": "2026-05-13T17:18:50Z"
-    },
-    {
-      "id": "phpmd",
-      "name": "PHPMD",
-      "description": "PHPMD linter for Zed editor.",
-      "version": "0.1.5",
-      "repo_url": "https://github.com/mike-bronner/zed-phpmd-lsp",
-      "owner": "mike-bronner",
-      "repo": "zed-phpmd-lsp",
-      "stars": 5,
-      "category": "Language",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2025-09-01T14:25:47Z",
-      "pushed_at": "2026-06-22T22:04:22Z"
     },
     {
       "id": "pug",
@@ -15110,6 +15110,22 @@
       "pushed_at": "2026-06-11T19:54:31Z"
     },
     {
+      "id": "likec4",
+      "name": "LikeC4",
+      "description": "LikeC4 architecture-as-code language support for Zed",
+      "version": "0.0.1",
+      "repo_url": "https://github.com/Lenivvenil/zed-likec4",
+      "owner": "Lenivvenil",
+      "repo": "zed-likec4",
+      "stars": 3,
+      "category": "Language",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2026-02-25T04:20:16Z",
+      "pushed_at": "2026-06-24T12:23:35Z"
+    },
+    {
       "id": "meson",
       "name": "Meson",
       "description": " Meson extension for the Zed code editor",
@@ -15300,6 +15316,22 @@
       "pushed_at": "2026-05-27T02:00:07Z"
     },
     {
+      "id": "bluespec-systemverilog",
+      "name": "Bluespec SystemVerilog",
+      "description": "Bluespec SystemVerilog syntax highlighting for zed",
+      "version": "0.1.0",
+      "repo_url": "https://github.com/sandytruant/zed-bsv",
+      "owner": "sandytruant",
+      "repo": "zed-bsv",
+      "stars": 2,
+      "category": "Language",
+      "dedicated": true,
+      "license": "Apache-2.0",
+      "maintained": true,
+      "created_at": "2025-11-08T06:20:49Z",
+      "pushed_at": "2025-11-20T10:54:48Z"
+    },
+    {
       "id": "bqn",
       "name": "BQN",
       "description": "BQN language support for zed",
@@ -15487,22 +15519,6 @@
       "maintained": true,
       "created_at": "2025-08-25T16:27:03Z",
       "pushed_at": "2025-08-25T20:23:45Z"
-    },
-    {
-      "id": "likec4",
-      "name": "LikeC4",
-      "description": "LikeC4 architecture-as-code language support for Zed",
-      "version": "0.0.1",
-      "repo_url": "https://github.com/Lenivvenil/zed-likec4",
-      "owner": "Lenivvenil",
-      "repo": "zed-likec4",
-      "stars": 2,
-      "category": "Language",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2026-02-25T04:20:16Z",
-      "pushed_at": "2026-06-24T12:23:35Z"
     },
     {
       "id": "linkerscript",
@@ -15981,22 +15997,6 @@
       "maintained": false,
       "created_at": "2024-06-06T14:45:37Z",
       "pushed_at": "2024-06-12T22:41:02Z"
-    },
-    {
-      "id": "bluespec-systemverilog",
-      "name": "Bluespec SystemVerilog",
-      "description": "Bluespec SystemVerilog syntax highlighting for zed",
-      "version": "0.1.0",
-      "repo_url": "https://github.com/sandytruant/zed-bsv",
-      "owner": "sandytruant",
-      "repo": "zed-bsv",
-      "stars": 1,
-      "category": "Language",
-      "dedicated": true,
-      "license": "Apache-2.0",
-      "maintained": true,
-      "created_at": "2025-11-08T06:20:49Z",
-      "pushed_at": "2025-11-20T10:54:48Z"
     },
     {
       "id": "canipls-lint",
@@ -17445,7 +17445,7 @@
       "license": "MIT",
       "maintained": true,
       "created_at": "2026-02-11T18:21:24Z",
-      "pushed_at": "2026-06-24T05:44:36Z"
+      "pushed_at": "2026-06-28T03:49:42Z"
     },
     {
       "id": "microscript",
@@ -18110,13 +18110,13 @@
       "repo_url": "https://github.com/tombi-toml/tombi",
       "owner": "tombi-toml",
       "repo": "tombi",
-      "stars": 1000,
+      "stars": 1002,
       "category": "Tool",
       "dedicated": true,
       "license": "MIT",
       "maintained": true,
       "created_at": "2024-10-08T16:28:51Z",
-      "pushed_at": "2026-06-26T15:06:31Z"
+      "pushed_at": "2026-06-28T05:42:56Z"
     },
     {
       "id": "csskit-lsp",
@@ -18132,7 +18132,7 @@
       "license": "MIT",
       "maintained": true,
       "created_at": "2023-08-04T19:08:33Z",
-      "pushed_at": "2026-06-27T03:05:25Z"
+      "pushed_at": "2026-06-28T03:06:11Z"
     },
     {
       "id": "agnix",
@@ -18142,13 +18142,13 @@
       "repo_url": "https://github.com/avifenesh/agnix",
       "owner": "avifenesh",
       "repo": "agnix",
-      "stars": 300,
+      "stars": 302,
       "category": "Tool",
       "dedicated": true,
       "license": "Apache-2.0",
       "maintained": true,
       "created_at": "2026-01-30T23:54:10Z",
-      "pushed_at": "2026-06-26T19:44:22Z"
+      "pushed_at": "2026-06-27T22:00:32Z"
     },
     {
       "id": "tsgo",
@@ -18190,7 +18190,7 @@
       "repo_url": "https://github.com/jolars/panache",
       "owner": "jolars",
       "repo": "panache",
-      "stars": 180,
+      "stars": 182,
       "category": "Tool",
       "dedicated": true,
       "license": "MIT",
@@ -18237,7 +18237,7 @@
       "repo_url": "https://github.com/LoamStudios/zed-mcp-server-github",
       "owner": "LoamStudios",
       "repo": "zed-mcp-server-github",
-      "stars": 90,
+      "stars": 91,
       "category": "Tool",
       "dedicated": true,
       "license": "MIT",
@@ -18316,7 +18316,7 @@
       "repo_url": "https://github.com/LoamStudios/zed-mcp-server-sequential-thinking",
       "owner": "LoamStudios",
       "repo": "zed-mcp-server-sequential-thinking",
-      "stars": 53,
+      "stars": 54,
       "category": "Tool",
       "dedicated": true,
       "license": "MIT",
@@ -18746,7 +18746,7 @@
       "repo_url": "https://github.com/karlomedallo/zed-playwright-mcp",
       "owner": "karlomedallo",
       "repo": "zed-playwright-mcp",
-      "stars": 9,
+      "stars": 10,
       "category": "Tool",
       "dedicated": true,
       "license": "MIT",
@@ -18800,6 +18800,22 @@
       "maintained": true,
       "created_at": "2024-05-22T11:40:51Z",
       "pushed_at": "2025-12-10T14:34:45Z"
+    },
+    {
+      "id": "mcp-server-firecrawl",
+      "name": "Firecrawl MCP Server",
+      "description": "Firecrawl MCP Server for Zed",
+      "version": "0.0.4",
+      "repo_url": "https://github.com/akbxr/firecrawl-mcp-zed",
+      "owner": "akbxr",
+      "repo": "firecrawl-mcp-zed",
+      "stars": 8,
+      "category": "Tool",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2025-04-20T11:41:10Z",
+      "pushed_at": "2025-10-01T00:00:35Z"
     },
     {
       "id": "mcp-server-godot",
@@ -18879,22 +18895,6 @@
       "maintained": true,
       "created_at": "2024-09-22T14:38:00Z",
       "pushed_at": "2026-01-13T13:49:55Z"
-    },
-    {
-      "id": "mcp-server-firecrawl",
-      "name": "Firecrawl MCP Server",
-      "description": "Firecrawl MCP Server for Zed",
-      "version": "0.0.4",
-      "repo_url": "https://github.com/akbxr/firecrawl-mcp-zed",
-      "owner": "akbxr",
-      "repo": "firecrawl-mcp-zed",
-      "stars": 7,
-      "category": "Tool",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2025-04-20T11:41:10Z",
-      "pushed_at": "2025-10-01T00:00:35Z"
     },
     {
       "id": "unicode",
@@ -20026,7 +20026,7 @@
       "license": "MIT",
       "maintained": true,
       "created_at": "2022-08-10T21:07:26Z",
-      "pushed_at": "2026-06-27T05:49:16Z"
+      "pushed_at": "2026-06-27T22:27:41Z"
     },
     {
       "id": "bugstalker-dap",
@@ -20058,7 +20058,7 @@
       "license": "NOASSERTION",
       "maintained": true,
       "created_at": "2022-12-08T09:01:16Z",
-      "pushed_at": "2026-06-26T20:10:37Z"
+      "pushed_at": "2026-06-27T13:49:04Z"
     },
     {
       "id": "syntaqlite-lsp",
@@ -20068,7 +20068,7 @@
       "repo_url": "https://github.com/LalitMaganti/syntaqlite",
       "owner": "LalitMaganti",
       "repo": "syntaqlite",
-      "stars": 789,
+      "stars": 790,
       "category": "Other",
       "dedicated": true,
       "license": "Apache-2.0",
@@ -20084,7 +20084,7 @@
       "repo_url": "https://github.com/posit-dev/air",
       "owner": "posit-dev",
       "repo": "air",
-      "stars": 436,
+      "stars": 437,
       "category": "Other",
       "dedicated": true,
       "license": "MIT",
@@ -20106,7 +20106,7 @@
       "license": "NOASSERTION",
       "maintained": true,
       "created_at": "2025-08-29T18:15:01Z",
-      "pushed_at": "2026-06-26T20:51:40Z"
+      "pushed_at": "2026-06-27T10:20:42Z"
     },
     {
       "id": "jarl",
@@ -20116,7 +20116,7 @@
       "repo_url": "https://github.com/etiennebacher/jarl",
       "owner": "etiennebacher",
       "repo": "jarl",
-      "stars": 144,
+      "stars": 145,
       "category": "Other",
       "dedicated": true,
       "license": "MIT",
@@ -20202,7 +20202,7 @@
       "license": "MIT",
       "maintained": true,
       "created_at": "2019-06-30T10:34:46Z",
-      "pushed_at": "2026-06-11T13:06:47Z"
+      "pushed_at": "2026-06-28T06:58:45Z"
     },
     {
       "id": "react-typescript-snippets",
@@ -20314,7 +20314,7 @@
       "license": "MIT",
       "maintained": true,
       "created_at": "2025-12-13T09:32:42Z",
-      "pushed_at": "2026-06-20T20:02:15Z"
+      "pushed_at": "2026-06-27T20:02:30Z"
     },
     {
       "id": "go-snippets",
@@ -21045,7 +21045,7 @@
       "license": "Apache-2.0",
       "maintained": true,
       "created_at": "2026-03-01T11:11:22Z",
-      "pushed_at": "2026-06-25T10:49:19Z"
+      "pushed_at": "2026-06-28T04:26:32Z"
     },
     {
       "id": "react-component-lens-lsp",
@@ -21094,6 +21094,22 @@
       "maintained": true,
       "created_at": "2025-11-02T01:54:23Z",
       "pushed_at": "2026-06-17T13:53:21Z"
+    },
+    {
+      "id": "todo-highlight-language-server",
+      "name": "Todo Highlight Language Server",
+      "description": "TODO Highlighter for Zed",
+      "version": "0.2.2",
+      "repo_url": "https://github.com/shionit/zed-todo-highlight",
+      "owner": "shionit",
+      "repo": "zed-todo-highlight",
+      "stars": 3,
+      "category": "Other",
+      "dedicated": true,
+      "license": "MIT",
+      "maintained": true,
+      "created_at": "2026-05-17T18:07:03Z",
+      "pushed_at": "2026-06-21T10:58:01Z"
     },
     {
       "id": "angular-snippets",
@@ -21254,22 +21270,6 @@
       "maintained": true,
       "created_at": "2026-04-12T09:04:27Z",
       "pushed_at": "2026-05-31T13:19:44Z"
-    },
-    {
-      "id": "todo-highlight-language-server",
-      "name": "Todo Highlight Language Server",
-      "description": "TODO Highlighter for Zed",
-      "version": "0.2.2",
-      "repo_url": "https://github.com/shionit/zed-todo-highlight",
-      "owner": "shionit",
-      "repo": "zed-todo-highlight",
-      "stars": 2,
-      "category": "Other",
-      "dedicated": true,
-      "license": "MIT",
-      "maintained": true,
-      "created_at": "2026-05-17T18:07:03Z",
-      "pushed_at": "2026-06-21T10:58:01Z"
     },
     {
       "id": "vintergata",
@@ -21557,6 +21557,22 @@
       "maintained": false,
       "created_at": "2025-03-26T12:02:50Z",
       "pushed_at": "2025-03-28T07:02:08Z"
+    },
+    {
+      "id": "vantadark-theme",
+      "name": "Vantadark",
+      "description": "A minimal dark theme for Zed. Clean surfaces, no borders, five syntax colours. Gets out of the way.",
+      "version": "1.1.5",
+      "repo_url": "https://github.com/ams-sth/vantadark",
+      "owner": "ams-sth",
+      "repo": "vantadark",
+      "stars": 1,
+      "category": "Other",
+      "dedicated": true,
+      "license": "NOASSERTION",
+      "maintained": true,
+      "created_at": "2026-06-23T06:14:59Z",
+      "pushed_at": "2026-06-27T05:17:01Z"
     },
     {
       "id": "vitest-snippets",
@@ -21911,22 +21927,6 @@
       "pushed_at": "2026-06-26T11:34:44Z"
     },
     {
-      "id": "vantadark-theme",
-      "name": "Vantadark",
-      "description": "A minimal dark theme for Zed. Clean surfaces, no borders, five syntax colours. Gets out of the way.",
-      "version": "1.1.5",
-      "repo_url": "https://github.com/ams-sth/vantadark",
-      "owner": "ams-sth",
-      "repo": "vantadark",
-      "stars": 0,
-      "category": "Other",
-      "dedicated": true,
-      "license": "NOASSERTION",
-      "maintained": true,
-      "created_at": "2026-06-23T06:14:59Z",
-      "pushed_at": "2026-06-27T05:17:01Z"
-    },
-    {
       "id": "woocommerce-snippets",
       "name": "WooCommerce Snippets",
       "description": "WooCommerce snippets for Zed editor — 180 curated patterns with smart completions",
@@ -21944,5 +21944,5 @@
     }
   ],
   "TotalCount": 1277,
-  "UpdatedAt": "2026-06-27"
+  "UpdatedAt": "2026-06-28"
 }
